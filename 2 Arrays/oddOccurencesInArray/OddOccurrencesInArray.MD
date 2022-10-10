@@ -44,3 +44,21 @@ console.log(solution([9,3,9,3,9,7,9,12]));
 
 
 ```
+
+
+Java
+```java
+import java.util.*;
+
+class Solution {
+    public int solution(int[] A) {
+        int unpaired = 0;
+        for (int number : A) {
+            unpaired ^= number;
+            System.out.println(unpaired);
+        }
+        return unpaired;
+  }
+}
+
+```

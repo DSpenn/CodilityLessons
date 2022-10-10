@@ -1,40 +1,40 @@
 # CodilityLessons
 
-Arrays
-  Cyclic Rotation
-  odd Occurences In Array
+Arrays<br>
+&nbsp;  Cyclic Rotation<br>
+&nbsp;  odd Occurences In Array<br>
 
-Time Complexity
-  Frog jump
-  Perm Missing Elem
+Time Complexity<br>
+&nbsp;  Frog jump<br>
+&nbsp;  Perm Missing Elem<br>
 
-Counting Elements
-  Frog River One
-  Max Counters
-  Perm Check
-  missing Integer
+Counting Elements<br>
+&nbsp;  Frog River One<br>
+&nbsp;  Max Counters<br>
+&nbsp;  Perm Check<br>
+&nbsp;  missing Integer<br>
 
-Prefix Sums
- Count Div
- Genomic Range Query
+Prefix Sums<br>
+&nbsp; [Count Div](/5%20PrefixSums/countdiv/countdiv.md) <br>
+&nbsp; [ Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)  <br>
 
-Sorting
-  Distinct
-  Triangle
-  maxProductofThree
+Sorting<br>
+&nbsp;  Distinct<br>
+&nbsp;  Triangle<br>
+&nbsp;  maxProductofThree<br>
 
-MaxSliceProblem
-  MaxProfit
+MaxSliceProblem<br>
+&nbsp;  MaxProfit<br>
 
-Prime and Composite
-  Count Factors
-  Min Perimeter Rectangle
+Prime and Composite<br>
+&nbsp;  Count Factors<br>
+&nbsp;  Min Perimeter Rectangle<br>
 
-Sieve of Eratosthenes
-  Count Semiprimes
+Sieve of Eratosthenes<br>
+&nbsp;  Count Semiprimes<br>
 
-Euclidean algorithm
-  Chocolates By Numbers
+Euclidean algorithm<br>
+&nbsp;  Chocolates By Numbers<br>
 
-Caterpillar method
-  AbsDistinct
+Caterpillar method<br>
+&nbsp;  AbsDistinct<br>
