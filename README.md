@@ -21,9 +21,9 @@ Prefix Sums<br>
 &nbsp; [ Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)  <br>
 
 Sorting<br>
-&nbsp;  [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java<br>
+&nbsp;  [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
 &nbsp;  [Triangle](/6%20Sorting/Triangle/Triagle.MD)<br>
-&nbsp;  [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java<br>
+&nbsp;  [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java & C++<br>
 
 MaxSliceProblem<br>
 &nbsp;  [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD)<br>
