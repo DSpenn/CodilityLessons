@@ -62,7 +62,6 @@ function solution(N, P, Q) {
     } else semiPrime[y] = semiPCount;
   }
   for (let x = 0; x < P.length; x += 1) {
-    //const rangeCount = semiPrime[Q[x]] - semiPrime[P[x] - 1];
     outputArr.push(semiPrime[Q[x]] - semiPrime[P[x] - 1]);
   }
   console.log(outputArr);
