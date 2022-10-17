@@ -7,13 +7,13 @@ Arrays<br>
 &nbsp;  [odd Occurences In Array](/2%20Arrays/oddOccurencesInArray/OddOccurrencesInArray.MD) + Java<br>
 
 Time Complexity<br>
-&nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD)<br>
+&nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD) + Java<br>
 &nbsp;  [Perm Missing Elem](/3%20Time%20Complexity/PermMissingElem/PermMissingElem.MD) + Java<br>
 
 Counting Elements<br>
 &nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java<br>
 &nbsp;  [Max Counters](/4%20Counting%20Elements/MaxCounters/MaxCounters.MD)<br>
-&nbsp;  [Perm Check](/4%20Counting%20Elements/PermCheck/permCheck.MD)<br>
+&nbsp;  [Perm Check](/4%20Counting%20Elements/PermCheck/permCheck.MD) + Java<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java<br>
 
 Prefix Sums<br>

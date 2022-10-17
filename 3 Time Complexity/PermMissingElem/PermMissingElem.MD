@@ -36,8 +36,6 @@ console.log(solution([2, 3, 1, 5]));
 ```
 
 
-
-
 Java
 ```java
 import java.util.*;
