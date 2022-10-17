@@ -34,3 +34,14 @@ console.log(solution(10,85,30));
 //solution(10,85,30);     O(1)
 
 ```
+
+
+Java
+```Java
+class Solution {
+  public int solution(int X, int Y, int D) {
+    return (int)Math.ceil((double)(Y-X)/D);
+  }
+}
+```
+

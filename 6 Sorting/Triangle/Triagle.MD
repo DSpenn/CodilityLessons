@@ -49,3 +49,21 @@ function solution(A)
 //console.log(solution([10,2,5,1,8,20]));
 console.log(solution([10, 50, 5, 1]));
 ```
+
+
+Java 100%
+```Java
+import java.util.Arrays;
+
+class Solution {
+  public int solution(int[] A) {
+    if (A.length < 3) { return 0; }
+
+    Arrays.sort(A);
+    for (int x = 2; x < A.length; x++) {
+      if ((long)A[x-2] + (long)A[x-1] > (long)A[x]) { return 1; }
+    }
+    return 0;
+  }
+}
+```

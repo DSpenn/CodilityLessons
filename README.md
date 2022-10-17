@@ -17,12 +17,12 @@ Counting Elements<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java<br>
 
 Prefix Sums<br>
-&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countdiv.md) <br>
-&nbsp; [ Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)  <br>
+&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countdiv.md)<br>
+&nbsp; [ Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
 
 Sorting<br>
 &nbsp;  [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
-&nbsp;  [Triangle](/6%20Sorting/Triangle/Triagle.MD)<br>
+&nbsp;  [Triangle](/6%20Sorting/Triangle/Triagle.MD) + Java<br>
 &nbsp;  [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java & C++<br>
 
 MaxSliceProblem<br>

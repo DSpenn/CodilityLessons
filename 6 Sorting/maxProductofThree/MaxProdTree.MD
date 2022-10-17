@@ -48,10 +48,6 @@ console.log(solution([-3,1,2,-2,5,6]));
 
 ```
 
-
-
-
-
 Java
 ```java
 import java.util.Arrays;
