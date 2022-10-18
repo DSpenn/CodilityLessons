@@ -38,3 +38,14 @@ class Solution {
   }
 }
 ```
+
+C++ 100% O(1)
+```C++
+int solution(int A, int B, int K) {
+    if (A%K==0)
+    {
+      return B/K - A/K + 1;
+    }
+    return B/K - A/K;
+}
+```

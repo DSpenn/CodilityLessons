@@ -13,12 +13,12 @@ Time Complexity<br>
 Counting Elements<br>
 &nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java & C++<br>
 &nbsp;  [Max Counters](/4%20Counting%20Elements/MaxCounters/MaxCounters.MD)<br>
-&nbsp;  [Perm Check](/4%20Counting%20Elements/PermCheck/permCheck.MD) + Java<br>
-&nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java<br>
+&nbsp;  [Perm Check](/4%20Counting%20Elements/PermCheck/permCheck.MD) + Java & C++<br>
+&nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java & C++<br>
 
 Prefix Sums<br>
-&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countdiv.md) + Java <br>
-&nbsp; [ Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
+&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countdiv.md) + Java & C++ <br>
+&nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
 
 Sorting<br>
 &nbsp;  [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
