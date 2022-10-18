@@ -1,6 +1,6 @@
 # CodilityLessons
 
-Solutions to codility lessons in Javascript
+Solutions to codility lessons in Javascript, Java and C++
 
 Arrays<br>
 &nbsp;  [Cyclic Rotation](/2%20Arrays/Cyclic%20Rotation/CyclicRotation.MD) + Java<br>
@@ -8,7 +8,7 @@ Arrays<br>
 
 Time Complexity<br>
 &nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD) + Java<br>
-&nbsp;  [Perm Missing Elem](/3%20Time%20Complexity/PermMissingElem/PermMissingElem.MD) + Java<br>
+&nbsp;  [Perm Missing Elem](/3%20Time%20Complexity/PermMissingElem/PermMissingElem.MD) + Java & C++<br>
 
 Counting Elements<br>
 &nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java<br>
@@ -17,12 +17,12 @@ Counting Elements<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java<br>
 
 Prefix Sums<br>
-&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countdiv.md)<br>
+&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countdiv.md) + Java <br>
 &nbsp; [ Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
 
 Sorting<br>
 &nbsp;  [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
-&nbsp;  [Triangle](/6%20Sorting/Triangle/Triagle.MD) + Java<br>
+&nbsp;  [Triangle](/6%20Sorting/Triangle/Triagle.MD) + Java & C++<br>
 &nbsp;  [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java & C++<br>
 
 MaxSliceProblem<br>

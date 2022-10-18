@@ -26,7 +26,7 @@ console.log(solution(6,11,2)) //should return 3
 
 ```
 
-Java
+Java 100% O(1)
 ```Java
 class Solution {
   public int solution(int A, int B, int K) {
