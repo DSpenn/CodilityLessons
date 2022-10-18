@@ -24,19 +24,16 @@ X, Y and D are integers within the range [1..1,000,000,000];
 X ≤ Y.
 
 https://app.codility.com/demo/results/trainingRK3H2W-VB9/
-
-```javascript
+javascript O(1)
+```javascript 
 function solution(X, Y, D) {
   return (Math.ceil(((Y-X)/D)));
 }
-
 console.log(solution(10,85,30));
-//solution(10,85,30);     O(1)
-
 ```
 
 
-Java
+Java 100% O(1)
 ```Java
 class Solution {
   public int solution(int X, int Y, int D) {
@@ -45,3 +42,13 @@ class Solution {
 }
 ```
 
+
+C++ 100% O(1) 
+```C++
+#include <cmath>
+
+int solution(int X, int Y, int D) {
+    double x = Y-X;
+    return ceil(x / D);
+}
+```

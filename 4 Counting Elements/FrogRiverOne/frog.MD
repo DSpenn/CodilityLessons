@@ -41,7 +41,7 @@ Write an efficient algorithm for the following assumptions:
 N and X are integers within the range [1..100,000];
 each element of array A is an integer within the range [1..X].
 
-
+Javascript O(n)
 ```javascript
 function solution(X, A) {
   const leaves = new Set();
@@ -55,12 +55,9 @@ function solution(X, A) {
 }
 
 console.log(solution(5,[1,3,1,4,2,3,5,4]));
-// O(n)
 ```
 
-
-
-Java
+Java 100% O(N)
 ```java
 import java.util.*;
 
@@ -75,4 +72,24 @@ class Solution {
       return -1;
     }
   }
+```
+
+C++ 100% O(N)
+```C++
+#include <iostream>
+#include <set>
+using namespace std;
+
+int solution(int X, vector<int> &A) {
+    set<int> s;
+    int y = 0;
+    for (int n : A) {
+        s.insert(n);
+        if (s.size() == X) {
+          return y; 
+    }
+    y++;
+    }
+    return -1;
+}
 ```

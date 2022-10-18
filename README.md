@@ -7,11 +7,11 @@ Arrays<br>
 &nbsp;  [odd Occurences In Array](/2%20Arrays/oddOccurencesInArray/OddOccurrencesInArray.MD) + Java<br>
 
 Time Complexity<br>
-&nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD) + Java<br>
+&nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD) + Java & C++<br>
 &nbsp;  [Perm Missing Elem](/3%20Time%20Complexity/PermMissingElem/PermMissingElem.MD) + Java & C++<br>
 
 Counting Elements<br>
-&nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java<br>
+&nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java & C++<br>
 &nbsp;  [Max Counters](/4%20Counting%20Elements/MaxCounters/MaxCounters.MD)<br>
 &nbsp;  [Perm Check](/4%20Counting%20Elements/PermCheck/permCheck.MD) + Java<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java<br>
@@ -26,7 +26,7 @@ Sorting<br>
 &nbsp;  [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java & C++<br>
 
 MaxSliceProblem<br>
-&nbsp;  [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD) + Java<br>
+&nbsp;  [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD) + Java & C++<br>
 
 Prime and Composite<br>
 &nbsp;  [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD) + Java<br>
