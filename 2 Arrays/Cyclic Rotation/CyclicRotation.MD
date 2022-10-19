@@ -50,7 +50,6 @@ function solution(A, K) {
 //console.log(solution([1,2,3,4,5,6,7,8,9,10], 3));
 console.log(solution([3, 8, 9, 7, 6], 3));
 
-
 ```
 
 
@@ -68,4 +67,19 @@ class Solution {
     return result;
   }
 }
+```
+
+
+C++ 100%
+```C++
+#include <algorithm>
+
+vector<int> solution(vector<int> &A, int K) {
+  if (A.size() < 2) return A;
+  if (K == 0) return A;
+  K = K % A.size();
+  rotate(A.rbegin(), A.rbegin() + K, A.rend());
+  return A;
+}
+
 ```

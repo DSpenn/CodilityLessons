@@ -42,7 +42,6 @@ function solution(A)
 
 console.log(solution([9,3,9,3,9,7,9,12]));
 
-
 ```
 
 
@@ -51,14 +50,26 @@ Java
 import java.util.*;
 
 class Solution {
-    public int solution(int[] A) {
-        int unpaired = 0;
-        for (int number : A) {
-            unpaired ^= number;
-            System.out.println(unpaired);
-        }
-        return unpaired;
+  public int solution(int[] A) {
+    int unpaired = 0;
+    for (int number : A) {
+      unpaired ^= number;
+      System.out.println(unpaired);
+    }
+    return unpaired;
   }
 }
 
+```
+
+
+C++ 100% O(N) or O(N*log(N))
+```C++
+#include <algorithm>
+int solution(vector<int> &A) {
+  sort(A.begin(), A.end());
+  for (let i = 0; i < A.size(); i += 2) {
+    if (A[i] != A[i + 1]) return A[i];
+  }
+}
 ```

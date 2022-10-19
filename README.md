@@ -2,11 +2,11 @@
 
 some Solutions to codility lessons in Javascript, Java and C++
 
-Arrays<br>
-&nbsp;  [Cyclic Rotation](/2%20Arrays/Cyclic%20Rotation/CyclicRotation.MD) + Java<br>
-&nbsp;  [odd Occurences In Array](/2%20Arrays/oddOccurencesInArray/OddOccurrencesInArray.MD) + Java<br>
+[Arrays](/2%20Arrays)<br>
+&nbsp;  [Cyclic Rotation](/2%20Arrays/Cyclic%20Rotation/CyclicRotation.MD) + Java & C++<br>
+&nbsp;  [odd Occurences In Array](/2%20Arrays/oddOccurencesInArray/OddOccurrencesInArray.MD) + Java & C++<br>
 
-Time Complexity<br>
+[Time Complexity](3%20Time%20Complexity)<br>
 &nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD) + Java & C++<br>
 &nbsp;  [Perm Missing Elem](/3%20Time%20Complexity/PermMissingElem/PermMissingElem.MD) + Java & C++<br>
 
