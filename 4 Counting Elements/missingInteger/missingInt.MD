@@ -32,21 +32,25 @@ console.log(solution([-1, -3])); //should return 1
 
 Java
 ```java
-class Solution {
-    public int solution(int[] A) {
-        if(A.length ==0){
-            return 1;
-        }
-        Set<Integer> set = new HashSet<Integer>();
-        for(int i=0; i< A.length; i++){
-            set.add(A[i]);
-        }
-        int i = 1;
-        while (set.contains(i)) i++;
+import java.io.*;
+import java.util.*;
 
-        return i;
+class Solution {
+  public int solution(int[] A) {
+    if (A.length == 0) {
+      return 1;
     }
+    Set<Integer> set = new HashSet<Integer>();
+    for (int i = 0; i < A.length; i++) {
+      set.add(A[i]);
+    }
+    int i = 1;
+    while (set.contains(i)) i++;
+
+    return i;
+  }
 }
+
 ```
 
 
@@ -57,12 +61,13 @@ C++ 100% O(N) or O(N * log(N))
 using namespace std;
 
 int solution(vector<int> &A) {
-    set<int> s;
-    for (int x : A) { 
-        s.insert(x);
-    }
-    int i = 1;
-    while (s.count(i)) i++;
-    return i;
+  set<int> s;
+  for (int x : A) {
+    s.insert(x);
+  }
+  int i = 1;
+  while (s.count(i)) i++;
+  return i;
 }
+
 ```

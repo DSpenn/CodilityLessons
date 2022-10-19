@@ -29,7 +29,7 @@ MaxSliceProblem<br>
 &nbsp;  [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD) + Java & C++<br>
 
 Prime and Composite<br>
-&nbsp;  [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD) + Java<br>
+&nbsp;  [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD) + Java & C++<br>
 &nbsp;  [Min Perimeter Rectangle](/10%20PrimeandComposite/MinPerimeterRectangle/MinPerimeterRectangle.MD) + Java & C++<br>
 
 Sieve of Eratosthenes<br>

@@ -66,7 +66,6 @@ function solution(A) {
 solution([4, 1, 3, 2, 5, 6, 7, 11, 9, 10, 8]);
 solution([4, 1, 3]);
 solution([4, 1, 3 , 3]);
-
 ```
 
 
@@ -78,11 +77,10 @@ import java.util.Arrays;
 class Solution {
   public int solution(int[] A) {
     Arrays.sort(A);
-    for(int i=0; i< A.length; i++)
-    {
-      if(A[i] != (i + 1)) {
+    for (int i = 0; i < A.length; i++) {
+      if (A[i] != (i + 1)) {
         return 0;
-        }
+      }
     }
     return 1;
   }
@@ -94,14 +92,12 @@ C++ 100% O(N) or O(N * log(N))
 ```C++
 #include <algorithm>
 int solution(vector<int> &A) {
-
   sort(A.begin(), A.end());
-  for(int i=0; i< A.size(); i++)
-    {
-      if(A[i] != (i + 1)) {
-        return 0;
-      }
+  for (int i = 0; i < A.size(); i++) {
+    if (A[i] != (i + 1)) {
+      return 0;
     }
+  }
   return 1;
 }
 ```

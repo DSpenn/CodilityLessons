@@ -37,9 +37,10 @@ Java 100% O(1)
 ```Java
 class Solution {
   public int solution(int X, int Y, int D) {
-    return (int)Math.ceil((double)(Y-X)/D);
+    return (int) Math.ceil((double) (Y - X) / D);
   }
 }
+
 ```
 
 
@@ -48,7 +49,7 @@ C++ 100% O(1)
 #include <cmath>
 
 int solution(int X, int Y, int D) {
-    double x = Y-X;
-    return ceil(x / D);
+  double x = Y - X;
+  return ceil(x / D);
 }
 ```
