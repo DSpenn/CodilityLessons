@@ -33,22 +33,23 @@ console.log(solution([2,1,1,2,3,1])); //the function should return 3,
 Java
 ```java
 import java.util.Arrays;
-import java.util.Set; 
-import java.util.HashSet; 
+import java.util.HashSet;
+import java.util.Set;
 
 class Solution {
-    public int solution(int[] A) {
-      if(A.length == 0) { return 0; }
+  public int solution(int[] A) {
+    if (A.length == 0) {
+      return 0;
+    }
 
-      Set<Integer> Set = new HashSet<>(); 
-        for (int element : A) { 
-          Set.add(element);
-      }
-      //System.out.println(Set.size());
-      return Set.size();
-      }
+    Set<Integer> Set = new HashSet<>();
+    for (int element : A) {
+      Set.add(element);
+    }
+    // System.out.println(Set.size());
+    return Set.size();
   }
-
+}
 ```
 
 C++
@@ -56,15 +57,10 @@ C++
 #include <set>
 
 int solution(vector<int> &A) {
-    set<int> mySet;
-    for(int i=0; i<A.size();i++){
-        if(mySet.count(A[i])==0)
-            mySet.insert(A[i]);
-    }
-    return mySet.size();
+  set<int> mySet;
+  for (int i = 0; i < A.size(); i++) {
+    if (mySet.count(A[i]) == 0) mySet.insert(A[i]);
+  }
+  return mySet.size();
 }
-
-
-
-
 ```

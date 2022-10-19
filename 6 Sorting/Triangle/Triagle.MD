@@ -57,15 +57,20 @@ import java.util.Arrays;
 
 class Solution {
   public int solution(int[] A) {
-    if (A.length < 3) { return 0; }
+    if (A.length < 3) {
+      return 0;
+    }
 
     Arrays.sort(A);
     for (int x = 2; x < A.length; x++) {
-      if ((long)A[x-2] + (long)A[x-1] > (long)A[x]) { return 1; }
+      if ((long) A[x - 2] + (long) A[x - 1] > (long) A[x]) {
+        return 1;
+      }
     }
     return 0;
   }
 }
+
 ```
 
 C++ 100% O(N*log(N))
@@ -73,11 +78,13 @@ C++ 100% O(N*log(N))
 #include <algorithm>
 
 int solution(vector<int> &A) {
-  if (A.size() < 3) { return 0; }
-  sort (A.begin(), A.end());
+  if (A.size() < 3) {
+    return 0;
+  }
+  sort(A.begin(), A.end());
 
   for (unsigned int x = 2; x < A.size(); x++) {
-      if ((long long)A[x-2] + A[x-1] > A[x])  return true;
+    if ((long long)A[x - 2] + A[x - 1] > A[x]) return true;
   }
   return 0;
 }

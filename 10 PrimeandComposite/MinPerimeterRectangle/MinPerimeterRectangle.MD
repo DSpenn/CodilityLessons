@@ -48,7 +48,7 @@ Java 100%
 class Solution {
   public int solution(int N) {
     int i = 1;
-    int perimeter=0;
+    int perimeter = 0;
     while ((i * i) <= N) {
       if (N % i == 0) {
         perimeter = 2 * (i + N / i);
@@ -58,4 +58,22 @@ class Solution {
     return perimeter;
   }
 }
+```
+
+
+C++ 100% O(sqrt(N))
+```C++
+int solution(int N) {
+  int i = 1;
+  int perimeter = 0;
+
+  while ((i * i) <= N) {
+    if (N % i == 0) {
+      perimeter = 2 * (i + N / i);
+    }
+    i += 1;
+  }
+  return perimeter;
+}
+
 ```

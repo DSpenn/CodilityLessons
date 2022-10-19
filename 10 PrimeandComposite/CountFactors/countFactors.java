@@ -6,12 +6,12 @@ class Solution {
       if (N % i == 0) {
         if (N / i == i) {
           result++;
-          } else {
+        } else {
           result += 2;
-          }
+        }
       }
       i++;
-      }
+    }
     return (int) result;
   }
 }

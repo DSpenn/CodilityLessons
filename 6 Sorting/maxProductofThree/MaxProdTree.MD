@@ -53,11 +53,12 @@ Java
 import java.util.Arrays;
 
 class Solution {
-    public int solution(int[] A) {
-        Arrays.sort(A);
-        int x = Math.max(A[A.length - 1] * A[A.length - 2] * A[A.length - 3], A[A.length - 1] * A[0] * A[1]) ;
-        return x;
-    }
+  public int solution(int[] A) {
+    Arrays.sort(A);
+    int x = Math.max(A[A.length - 1] * A[A.length - 2] * A[A.length - 3],
+        A[A.length - 1] * A[0] * A[1]);
+    return x;
+  }
 }
 ```
 
@@ -68,7 +69,9 @@ C++
 #include <cmath>
 
 int solution(vector<int> &A) {
-    sort(A.begin(), A.end());
-    return max(A[A.size() - 1] * A[A.size() - 2] * A[A.size() - 3], A[A.size() - 1] * A[0] * A[1]);
+  sort(A.begin(), A.end());
+  return max(A[A.size() - 1] * A[A.size() - 2] * A[A.size() - 3],
+             A[A.size() - 1] * A[0] * A[1]);
 }
+
 ```

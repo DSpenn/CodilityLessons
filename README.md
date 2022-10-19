@@ -1,6 +1,6 @@
 # CodilityLessons
 
-Solutions to codility lessons in Javascript, Java and C++
+some Solutions to codility lessons in Javascript, Java and C++
 
 Arrays<br>
 &nbsp;  [Cyclic Rotation](/2%20Arrays/Cyclic%20Rotation/CyclicRotation.MD) + Java<br>
@@ -17,7 +17,7 @@ Counting Elements<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java & C++<br>
 
 Prefix Sums<br>
-&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countdiv.md) + Java & C++ <br>
+&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countDiv.md) + Java & C++ <br>
 &nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
 
 Sorting<br>
@@ -30,7 +30,7 @@ MaxSliceProblem<br>
 
 Prime and Composite<br>
 &nbsp;  [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD) + Java<br>
-&nbsp;  [Min Perimeter Rectangle](/10%20PrimeandComposite/MinPerimeterRectangle/MinPerimeterRectangle.MD) + Java<br>
+&nbsp;  [Min Perimeter Rectangle](/10%20PrimeandComposite/MinPerimeterRectangle/MinPerimeterRectangle.MD) + Java & C++<br>
 
 Sieve of Eratosthenes<br>
 &nbsp;  [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD)<br>
