@@ -35,8 +35,8 @@ each element of arrays P and Q is an integer within the range [0..N - 1];
 P[K] ≤ Q[K], where 0 ≤ K < M;
 string S consists only of upper-case English letters A, C, G, T.
 
+100% O(N + M) 
 ```javascript
-https://app.codility.com/demo/results/training88UXTH-5D5/
 function solution(S, P, Q) {
   const arr = [];
   const scores = [];
@@ -74,8 +74,6 @@ console.log('arr', arr);
   return scores;
 }
 
-//console.log(solution('CAGCCTA', [2, 5, 0], [4, 5, 6])); // hould return the values [2, 4, 1]
+//console.log(solution('CAGCCTA', [2, 5, 0], [4, 5, 6])); // should return the values [2, 4, 1]
 console.log(solution('TC', [0, 0, 1], [0, 1, 1])); // [4, 2, 2]).
-
-
 ```
