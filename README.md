@@ -2,6 +2,9 @@
 
 Solutions to [Codility lessons](https://app.codility.com/programmers/lessons) in Javascript, Java and C++
 
+Lesson 1 [Iterations]<br>
+&nbsp;  [Binary Gap](/1%20Iterations/BinaryGap/BinaryGap.MD)<br>
+
 Lesson 2 [Arrays](/2%20Arrays)<br>
 &nbsp;  [Cyclic Rotation](/2%20Arrays/Cyclic%20Rotation/CyclicRotation.MD) + Java & C++<br>
 &nbsp;  [odd Occurences In Array](/2%20Arrays/oddOccurencesInArray/OddOccurrencesInArray.MD) + Java & C++<br>
