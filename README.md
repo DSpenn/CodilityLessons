@@ -17,8 +17,8 @@ Lesson 4 [Counting Elements](/4%20Counting%20Elements)<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java & C++<br>
 
 Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
-&nbsp; [Passing Cars](/5%20PrefixSums/passingCars/passingCars.MD) + Java & C++ <br>
-&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countDiv.md) + Java & C++ <br>
+&nbsp; [Passing Cars](/5%20PrefixSums/PassingCars/passingCars.MD) + Java & C++ <br>
+&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countDiv.MD) + Java & C++ <br>
 &nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
