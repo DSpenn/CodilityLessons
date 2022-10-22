@@ -38,7 +38,7 @@ each element of array A is an integer within the range [0..M].
 
 
 
-javascript 100%  //O(N) 
+javascript 100%  O(N) 
 ```javascript
 function solution(M, A) {
   const LIMIT = 1000000000;

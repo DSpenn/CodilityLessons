@@ -31,6 +31,7 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [0..400,000];
 each element of array A is an integer within the range [0..200,000].
 
+javascript 100% O(N) 
 ```javascript
 function solution(A) {
   let maxProfit = 0;
@@ -77,6 +78,4 @@ int solution(vector<int> &A) {
   }
   return maxProfit;
 }
-
-
 ```

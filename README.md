@@ -25,9 +25,15 @@ Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
 &nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
-&nbsp;  [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
-&nbsp;  [Triangle](/6%20Sorting/Triangle/Triagle.MD) + Java & C++<br>
-&nbsp;  [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java & C++<br>
+&nbsp; [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
+&nbsp; [Triangle](/6%20Sorting/Triangle/Triagle.MD) + Java & C++<br>
+&nbsp; [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java & C++<br>
+
+Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
+&nbsp; [Brackets](/7%20StacksandQues/Brackets/brackets.MD)<br>
+&nbsp; [Fish](/7%20StacksandQues/Fish/fish.MD)<br>
+&nbsp; [Nesting](/7%20StacksandQues/Nesting/nesting.MD)<br>
+&nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD)<br>
 
 Lesson 9 MaxSliceProblem<br>
 &nbsp;  [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD) + Java & C++<br>

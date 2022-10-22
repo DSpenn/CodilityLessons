@@ -50,7 +50,7 @@ Write an efficient algorithm for the following assumptions:
 N and M are integers within the range [1..100,000];
 each element of array A is an integer within the range [1..N + 1].
 
-
+javascript 100% O(N + M) 
 ```javascript
 function solution(N, A) { // N is the number of counters
   const counters = new Array(N).fill(0);
@@ -87,6 +87,5 @@ for (let y = 0; y < 10; y++) {
   solution(z,test1);
   console.timeEnd(`${z}`);
   }
-//https://app.codility.com/demo/results/training748CGN-PPF/
 
 ```

@@ -1,4 +1,3 @@
-https://app.codility.com/demo/results/training88UXTH-5D5/
 function solution(S, P, Q) {
   const arr = [];
   const scores = [];

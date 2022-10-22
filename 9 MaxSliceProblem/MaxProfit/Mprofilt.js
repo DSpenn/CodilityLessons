@@ -10,6 +10,3 @@ function solution(A) {
 }
 
 solution([23171, 21011, 21123, 21366, 21013, 21367]);
-
-// O(N)
-//https://app.codility.com/demo/results/trainingX3UKXH-Y7Y/

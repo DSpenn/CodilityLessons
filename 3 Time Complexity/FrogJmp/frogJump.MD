@@ -23,8 +23,7 @@ Write an efficient algorithm for the following assumptions:
 X, Y and D are integers within the range [1..1,000,000,000];
 X ≤ Y.
 
-https://app.codility.com/demo/results/trainingRK3H2W-VB9/
-javascript O(1)
+javascript 100% O(1)
 ```javascript 
 function solution(X, Y, D) {
   return (Math.ceil(((Y-X)/D)));

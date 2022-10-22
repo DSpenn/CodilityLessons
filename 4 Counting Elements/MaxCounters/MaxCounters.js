@@ -33,4 +33,3 @@ for (let y = 0; y < 10; y++) {
   solution(z,test1);
   console.timeEnd(`${z}`);
   }
-//https://app.codility.com/demo/results/training748CGN-PPF/

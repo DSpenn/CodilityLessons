@@ -3,5 +3,4 @@ function solution(X, Y, D) {
 }
 
 console.log(solution(10,85,30));
-//solution(10,85,30);     O(1)
-// https://app.codility.com/demo/results/trainingRK3H2W-VB9/
+//solution(10,85,30);
