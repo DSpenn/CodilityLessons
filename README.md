@@ -40,7 +40,9 @@ Lesson 11 Sieve of Eratosthenes<br>
 &nbsp;  [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD)<br>
 
 Lesson 12 Euclidean algorithm<br>
-&nbsp;  [Chocolates By Numbers](/12%20Euclidean%20algorithm/ChocolatesByNumbers/ChocolatesByNumbers.MD)<br>
+&nbsp;  [Chocolates By Numbers](/12%20Euclidean%20algorithm/ChocolatesByNumbers/ChocolatesByNumbers.MD) + Java & C++<br>
 
-Lesson 15 Caterpillar method<br>
-&nbsp;  [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD)<br>
+Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
+&nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD)<br>
+&nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) <br>
+&nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD)<br>

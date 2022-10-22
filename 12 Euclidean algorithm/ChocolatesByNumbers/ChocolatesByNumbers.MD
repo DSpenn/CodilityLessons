@@ -36,5 +36,36 @@ solution(415633212, 234332);
 console.timeEnd('time');
 // O(log(N + M)) 
 
+```
+
+Java 100% O(log(N + M))
+```java
+class Solution {
+  public int solution(int N, int M) {
+    return N / (gcd(N, M));
+  }
+
+  public static int gcd(int n, int m) {
+    if (n % m == 0)
+      return m;
+    else
+      return gcd(m, n % m);
+  }
+}
+```
+
+
+C++ 100% O(log(N + M))
+```C++
+long long int gcd(int n, int m) {
+    if (n % m == 0)
+      return m;
+    else
+      return gcd(m, n % m);
+  }
+
+int solution(int N, int M) {
+  return N / (gcd(N, M));
+}
 
 ```

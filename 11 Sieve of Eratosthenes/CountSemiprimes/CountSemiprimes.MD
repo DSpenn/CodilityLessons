@@ -36,6 +36,8 @@ M is an integer within the range [1..30,000];
 each element of arrays P and Q is an integer within the range [1..N];
 P[i] ≤ Q[i].
 
+
+O(N * log(log(N)) + M)
 ```javascript
 function isSemiPrime(n) {
   let num = n;
@@ -69,7 +71,5 @@ function solution(N, P, Q) {
 }
 
 solution(26, [1, 4, 16], [26, 10, 20]); // [10, 4, 0]
-//O(N * log(log(N)) + M)
-
 
 ```
