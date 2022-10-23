@@ -23,7 +23,7 @@ Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
 &nbsp; [Passing Cars](/5%20PrefixSums/PassingCars/passingCars.MD) + Java & C++ <br>
 &nbsp; [Count Div](/5%20PrefixSums/CountDiv/countDiv.MD) + Java & C++ <br>
 &nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
-&nbsp; MinAvgTwoSlice <br>
+&nbsp; [MinAvgTwoSlice](/5%20PrefixSums/MinAvgTwoSlice/MinAvgTwoSlice.MD) <br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
@@ -36,8 +36,10 @@ Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
 &nbsp; [Nesting](/7%20StacksandQues/Nesting/nesting.MD) + Java<br>
 &nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD)<br>
 
-Lesson 9 MaxSliceProblem<br>
+Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
 &nbsp; [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD) + Java & C++<br>
+&nbsp; [MaxSliceSum](/9%20MaxSliceProblem/MaxSliceSum/MaxSliceSum.MD) + Java & C++ <br>
+&nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) <br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD) + Java & C++ <br>
@@ -49,7 +51,6 @@ Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 
 Lesson 12 Euclidean algorithm<br>
 &nbsp; [Chocolates By Numbers](/12%20Euclidean%20algorithm/ChocolatesByNumbers/ChocolatesByNumbers.MD) + Java & C++ <br>
-&nbsp; CommonPrimeDivisors <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) <br>
