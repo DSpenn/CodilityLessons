@@ -33,7 +33,7 @@ Lesson 6 [Sorting](/6%20Sorting/)<br>
 Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
 &nbsp; [Brackets](/7%20StacksandQues/Brackets/brackets.MD) + Java<br>
 &nbsp; [Fish](/7%20StacksandQues/Fish/fish.MD)<br>
-&nbsp; [Nesting](/7%20StacksandQues/Nesting/nesting.MD) + Java<br>
+&nbsp; [Nesting](/7%20StacksandQues/Nesting/nesting.MD) + Java & C++<br>
 &nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD)<br>
 
 Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
