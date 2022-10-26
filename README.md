@@ -16,7 +16,7 @@ Lesson 3 [Time Complexity](/3%20Time%20Complexity)<br>
 
 Lesson 4 [Counting Elements](/4%20Counting%20Elements)<br>
 &nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java & C++<br>
-&nbsp;  [Max Counters](/4%20Counting%20Elements/MaxCounters/MaxCounters.MD)<br>
+&nbsp;  [Max Counters](/4%20Counting%20Elements/MaxCounters/MaxCounters.MD) + Java <br>
 &nbsp;  [Perm Check](/4%20Counting%20Elements/PermCheck/permCheck.MD) + Java & C++<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java & C++<br>
 
@@ -24,7 +24,7 @@ Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
 &nbsp; [Passing Cars](/5%20PrefixSums/PassingCars/passingCars.MD) + Java & C++ <br>
 &nbsp; [Count Div](/5%20PrefixSums/CountDiv/countDiv.MD) + Java & C++ <br>
 &nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
-&nbsp; [MinAvgTwoSlice](/5%20PrefixSums/MinAvgTwoSlice/MinAvgTwoSlice.MD) <br>
+&nbsp; [MinAvgTwoSlice](/5%20PrefixSums/MinAvgTwoSlice/MinAvgTwoSlice.MD) + Java <br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>

@@ -1,4 +1,4 @@
-function solution(N, A) { // N is the number of counters
+function solution(N, A) {
   const counters = new Array(N).fill(0);
   let max = 0;
   const len = A.length;
