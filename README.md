@@ -3,7 +3,7 @@
 Solutions to [Codility lessons](https://app.codility.com/programmers/lessons) in Javascript, Java and C++
 
 Lesson 1 Iterations<br>
-&nbsp;  [Binary Gap](/1%20Iterations/BinaryGap/BinaryGap.MD)<br>
+&nbsp;  [Binary Gap](/1%20Iterations/BinaryGap/BinaryGap.MD) + Java & C++<br>
 
 Lesson 2 [Arrays](/2%20Arrays)<br>
 &nbsp;  [Cyclic Rotation](/2%20Arrays/Cyclic%20Rotation/CyclicRotation.MD) + Java & C++<br>
@@ -12,6 +12,7 @@ Lesson 2 [Arrays](/2%20Arrays)<br>
 Lesson 3 [Time Complexity](/3%20Time%20Complexity)<br>
 &nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD) + Java & C++<br>
 &nbsp;  [Perm Missing Elem](/3%20Time%20Complexity/PermMissingElem/PermMissingElem.MD) + Java & C++<br>
+&nbsp;  [Tape Equilibrium](/3%20Time%20Complexity/TapeEquilibrium/TapeEquilibrium.MD)<br>
 
 Lesson 4 [Counting Elements](/4%20Counting%20Elements)<br>
 &nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java & C++<br>
@@ -29,6 +30,7 @@ Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
 &nbsp; [Triangle](/6%20Sorting/Triangle/Triagle.MD) + Java & C++<br>
 &nbsp; [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java & C++<br>
+&nbsp; [NumberOfDiscIntersections](/6%20Sorting/NumberOfDiscIntersections/NumberOfDiscIntersections.MD) <br>
 
 Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
 &nbsp; [Brackets](/7%20StacksandQues/Brackets/brackets.MD) + Java<br>
@@ -49,8 +51,12 @@ Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 &nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) <br>
 &nbsp; [CountNonDivisible](/11%20Sieve%20of%20Eratosthenes/CountNonDivisible/CountNonDivisible.MD) <br>
 
-Lesson 12 Euclidean algorithm<br>
+Lesson 12 [Euclidean algorithm](/12%20Euclidean%20algorithm/)<br>
 &nbsp; [Chocolates By Numbers](/12%20Euclidean%20algorithm/ChocolatesByNumbers/ChocolatesByNumbers.MD) + Java & C++ <br>
+&nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/CommonPrimeDivisors.md) <br>
+
+Lesson 13 Fibonacci numbers <br>
+&nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) <br>

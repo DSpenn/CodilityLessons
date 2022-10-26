@@ -34,3 +34,70 @@ function solution(N) {
   console.log(solution(32)); // 0
 
 ```
+
+Java 100%
+```java
+
+class Solution {
+  public int solution(int N) {
+    int maxGap = 0;
+    int currGap = 0;
+    boolean isInGap = false;
+    while (N > 0) {
+      if (N % 2 == 1 || N == 1) {
+        // System.out.println("N: " + N);
+        maxGap = maxGap < currGap ? currGap : maxGap;
+        // System.out.println("maxGap: " + maxGap);
+        currGap = 0;
+        isInGap = true;
+      } else if (isInGap) {
+        currGap++;
+        // System.out.println("currGap: " + currGap);
+      }
+      N /= 2;
+    }
+    return maxGap;
+  }
+}
+```
+
+
+
+
+
+
+
+C++ 100%
+```c++
+#include <set>
+#include <string>
+#include <vector>
+int solution(int N) {
+  int bin;
+  vector<int> b;
+  set<int> counts;
+  int zero = 0;
+  bool gap = false;
+
+  while (N > 0) {
+    bin = N % 2;
+    b.push_back(bin);
+    N /= 2;
+  }
+
+  // for (int x : b) { cout << x; } print binary representation of number vector
+
+  for (unsigned int y = 0; y < b.size(); y += 1) {
+    if (b.at(y) == 0 && gap == true) {
+      zero++;
+    }
+    if (b.at(y) == 1) {
+      gap = true;
+      counts.insert(zero);
+      zero = 0;
+    }
+  }
+  // for (int i : counts) { cout << i << ' '; }  print gap counts set
+  return (counts.size() == 0) ? 0 : *counts.rbegin(); 
+}
+```

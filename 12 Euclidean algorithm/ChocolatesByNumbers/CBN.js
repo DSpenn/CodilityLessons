@@ -7,5 +7,4 @@ function solution(N, M) { // Integer N represents the number of chocolates
 console.time('time');
 solution(10, 4); // 5 eating 0, 4, 8, 2, 6
 solution(415633212, 234332);
-console.timeEnd('time');
-// O(log(N + M)) 
+console.timeEnd('time')
