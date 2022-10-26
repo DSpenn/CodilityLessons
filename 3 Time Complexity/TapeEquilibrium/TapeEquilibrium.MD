@@ -46,7 +46,7 @@ javascript 100% O(N)
 ```javascript
 function solution(A) {
   let min = Number.POSITIVE_INFINITY;
-  let diff = A.reduce((a, b) => a + b);
+  let diff = A.reduce((a, b) => a + b); // total sum of all numbers in input.
 
   for (let i = 0; i < A.length - 1; i++) {
     diff -= 2 * A[i];
@@ -57,5 +57,26 @@ function solution(A) {
   return min;
 }
 //console.log(solution([3, 1, 2 , 4, 3]));
+```
 
+Java 100% O(N)
+```java
+class Solution {
+  public int solution(int[] A) {
+    int totalSum = 0;
+    int min = Integer.MAX_VALUE;
+
+    for (int i : A) totalSum += i;
+
+    //System.out.println("total sum: " + totalSum);
+    for (int i = 0; i < A.length - 1; i++) {
+      totalSum -= 2 * A[i];
+      if (min > Math.abs(totalSum)) {
+        min = Math.abs(totalSum);
+      }
+    }
+    //System.out.println("min " + min);
+    return min;
+  }
+}
 ```
