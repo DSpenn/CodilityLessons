@@ -12,11 +12,11 @@ Lesson 2 [Arrays](/2%20Arrays)<br>
 Lesson 3 [Time Complexity](/3%20Time%20Complexity)<br>
 &nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD) + Java & C++<br>
 &nbsp;  [Perm Missing Elem](/3%20Time%20Complexity/PermMissingElem/PermMissingElem.MD) + Java & C++<br>
-&nbsp;  [Tape Equilibrium](/3%20Time%20Complexity/TapeEquilibrium/TapeEquilibrium.MD)<br>
+&nbsp;  [Tape Equilibrium](/3%20Time%20Complexity/TapeEquilibrium/TapeEquilibrium.MD) + Java <br>
 
 Lesson 4 [Counting Elements](/4%20Counting%20Elements)<br>
 &nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java & C++<br>
-&nbsp;  [Max Counters](/4%20Counting%20Elements/MaxCounters/MaxCounters.MD) + Java <br>
+&nbsp;  [Max Counters](/4%20Counting%20Elements/MaxCounters/MaxCounters.MD) + Java & C++<br>
 &nbsp;  [Perm Check](/4%20Counting%20Elements/PermCheck/permCheck.MD) + Java & C++<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java & C++<br>
 
@@ -41,7 +41,7 @@ Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
 Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
 &nbsp; [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD) + Java & C++<br>
 &nbsp; [MaxSliceSum](/9%20MaxSliceProblem/MaxSliceSum/MaxSliceSum.MD) + Java & C++ <br>
-&nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) <br>
+&nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) + Java <br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD) + Java & C++ <br>

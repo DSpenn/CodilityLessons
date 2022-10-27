@@ -92,7 +92,7 @@ for (let y = 0; y < 10; y++) {
 
 
 Java 100% O(N + M)
-```
+```java
 import java.util.Arrays;
 class Solution {
   public int[] solution(int N, int[] A) {
@@ -112,8 +112,35 @@ class Solution {
     for (int i = 0; i < counters.length; i++) {
       counters[i] = Math.max(counters[i], lastMax);
     }
-    // Arrays.fill(counters, max);
     return counters;
   }
 }
+```
+
+
+C++ 100% O(N + M)
+```c++
+#include <algorithm>
+#include <vector>
+
+vector<int> solution(int N, vector<int> &A) {
+  vector<int> counters(N, 0);
+  int min = 0;
+  int max = 0;
+  for (int k = 0; k < A.size(); k++) {
+    if (A[k] <= N) {
+      counters[A[k] - 1] = std::max(counters[A[k] - 1], min);
+      counters[A[k] - 1]++;
+      max = std::max(max, counters[A[k] - 1]);
+    } else {
+      min = max;
+    }
+  }
+  for (int i = 0; i < counters.size(); i++) {
+    counters[i] = std::max(counters[i], min);
+  }
+  return counters;
+}
+
+
 ```
