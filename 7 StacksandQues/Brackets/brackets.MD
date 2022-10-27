@@ -23,8 +23,7 @@ Write an efficient algorithm for the following assumptions:
 
 
 
-
-javascript 100% O(N)
+Javascript 100% O(N)
 ```javascript
 function solution(S) {
   const a = [];
@@ -61,11 +60,7 @@ console.log(solution('([)()]')); // 0
 ```
 
 
-
-
-
-
-java 100% O(N)
+Java 100% O(N)
 ```java
 import java.util.Stack;
 class Solution {
@@ -98,5 +93,31 @@ class Solution {
       return 1;
     }
   }
+}
+```
+C++ 100% O(N)
+```c++
+#include <stack>
+int solution(string &S) {
+  if (S.size() == 0) return 1;  // if input empty
+  if (S.size() % 2) return 0;   // if odd input cant be properly nested
+
+  stack<char> stk;
+
+  for (auto &s : S)
+    if (s == '(' or s == '[' or s == '{')
+      stk.push(s);
+    else if (stk.size() == 0)
+      return false;
+    else if (s == ')' and stk.top() != '(')
+      return false;
+    else if (s == ']' and stk.top() != '[')
+      return false;
+    else if (s == '}' and stk.top() != '{')
+      return false;
+    else
+      stk.pop();
+
+  return stk.size() == 0;
 }
 ```

@@ -12,7 +12,7 @@ Lesson 2 [Arrays](/2%20Arrays)<br>
 Lesson 3 [Time Complexity](/3%20Time%20Complexity)<br>
 &nbsp;  [Frog jump](/3%20Time%20Complexity/FrogJmp/frogJump.MD) + Java & C++<br>
 &nbsp;  [Perm Missing Elem](/3%20Time%20Complexity/PermMissingElem/PermMissingElem.MD) + Java & C++<br>
-&nbsp;  [Tape Equilibrium](/3%20Time%20Complexity/TapeEquilibrium/TapeEquilibrium.MD) + Java <br>
+&nbsp;  [Tape Equilibrium](/3%20Time%20Complexity/TapeEquilibrium/TapeEquilibrium.MD) + Java & C++ <br>
 
 Lesson 4 [Counting Elements](/4%20Counting%20Elements)<br>
 &nbsp;  [Frog River One](/4%20Counting%20Elements/FrogRiverOne/frog.MD) + Java & C++<br>
@@ -21,10 +21,10 @@ Lesson 4 [Counting Elements](/4%20Counting%20Elements)<br>
 &nbsp;  [Missing Integer](/4%20Counting%20Elements/missingInteger/missingInt.MD) + Java & C++<br>
 
 Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
-&nbsp; [Passing Cars](/5%20PrefixSums/PassingCars/passingCars.MD) + Java & C++ <br>
-&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countDiv.MD) + Java & C++ <br>
+&nbsp; [Passing Cars](/5%20PrefixSums/PassingCars/passingCars.MD) + Java & C++<br>
+&nbsp; [Count Div](/5%20PrefixSums/CountDiv/countDiv.MD) + Java & C++<br>
 &nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
-&nbsp; [MinAvgTwoSlice](/5%20PrefixSums/MinAvgTwoSlice/MinAvgTwoSlice.MD) + Java <br>
+&nbsp; [MinAvgTwoSlice](/5%20PrefixSums/MinAvgTwoSlice/MinAvgTwoSlice.MD) + Java & C++<br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
@@ -33,7 +33,7 @@ Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; [NumberOfDiscIntersections](/6%20Sorting/NumberOfDiscIntersections/NumberOfDiscIntersections.MD) <br>
 
 Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
-&nbsp; [Brackets](/7%20StacksandQues/Brackets/brackets.MD) + Java<br>
+&nbsp; [Brackets](/7%20StacksandQues/Brackets/brackets.MD) + Java & C++<br>
 &nbsp; [Fish](/7%20StacksandQues/Fish/fish.MD)<br>
 &nbsp; [Nesting](/7%20StacksandQues/Nesting/nesting.MD) + Java & C++<br>
 &nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD)<br>
