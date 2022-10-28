@@ -53,7 +53,7 @@ Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 
 Lesson 12 [Euclidean algorithm](/12%20Euclidean%20algorithm/)<br>
 &nbsp; [Chocolates By Numbers](/12%20Euclidean%20algorithm/ChocolatesByNumbers/ChocolatesByNumbers.MD) + Java & C++ <br>
-&nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/CommonPrimeDivisors.md) <br>
+&nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/CommonPrimeDivisors.md) & C++ <br>
 
 Lesson 13 Fibonacci numbers <br>
 &nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) <br>
