@@ -61,5 +61,5 @@ Lesson 13 Fibonacci numbers <br>
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) <br>
 &nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) <br>
-&nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) <br>
+&nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) & C++ <br>
 &nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) <br>

@@ -61,12 +61,6 @@ class Solution {
 }
 ```
 
-
-
-
-
-
-
 C++ 100%
 ```c++
 #include <set>

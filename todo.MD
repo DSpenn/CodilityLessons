@@ -1,13 +1,8 @@
 # CodilityLessons todo
-Lesson 3 [Time Complexity](/3%20Time%20Complexity)<br>
-&nbsp;  [Tape Equilibrium](/3%20Time%20Complexity/TapeEquilibrium/TapeEquilibrium.MD)<br>
 
-Lesson 4 [Counting Elements](/4%20Counting%20Elements)<br>
-&nbsp;  [Max Counters](/4%20Counting%20Elements/MaxCounters/MaxCounters.MD)<br>
 
 Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
 &nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
-&nbsp; [MinAvgTwoSlice](/5%20PrefixSums/MinAvgTwoSlice/MinAvgTwoSlice.MD) <br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; [NumberOfDiscIntersections](/6%20Sorting/NumberOfDiscIntersections/NumberOfDiscIntersections.MD) <br>
@@ -21,7 +16,7 @@ Lesson 8 Leader <br>
 &nbsp; EquiLeader<br>
 
 Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
-&nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) <br>
+&nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) c++ <br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; Flags <br>

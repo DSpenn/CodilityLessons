@@ -2,11 +2,7 @@ function solution(S, P, Q) {
   const arr = [];
   const scores = [];
   const maxLen = S.length;
-
-  const letters = S.split('')
-  console.log('letters', letters);
-
-  
+ 
   console.log('length/ maxLen', S.length);
 
   for (let x = 0; x < P.length; x += 1) {
