@@ -37,5 +37,18 @@ function solution(A) {
   return a.length;
 }
 console.log(solution([-5, -3, -1, 0, 3, 6]));
+```
 
+
+C++ 100% O(N) or O(N*log(N))
+```c++
+#include <stdlib.h>
+#include <set>
+int solution(vector<int> &A) {
+  set<int> mySet;
+  for (auto &a : A) {
+    mySet.insert(abs(a));
+  }
+  return mySet.size();
+}
 ```

@@ -2,50 +2,51 @@
 
 
 Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
-&nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
+&nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD) C++ and java<br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
-&nbsp; [NumberOfDiscIntersections](/6%20Sorting/NumberOfDiscIntersections/NumberOfDiscIntersections.MD) <br>
+&nbsp; NumberOfDiscIntersections C++ and java<br>
 
 Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
-&nbsp; [Fish](/7%20StacksandQues/Fish/fish.MD)<br>
-&nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD)<br>
+&nbsp; [Fish](/7%20StacksandQues/Fish/fish.MD) C++ and java<br>
+&nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD) C++ and java<br>
 
 Lesson 8 Leader <br>
-&nbsp; Dominator<br>
-&nbsp; EquiLeader<br>
+&nbsp; Dominator ALL<br>
+&nbsp; EquiLeader ALL<br>
 
 Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
 &nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) c++ <br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
-&nbsp; Flags <br>
-&nbsp; Peaks <br>
+&nbsp; Flags ALL <br>
+&nbsp; Peaks ALL <br>
 
 Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
-&nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) <br>
-&nbsp; [CountNonDivisible](/11%20Sieve%20of%20Eratosthenes/CountNonDivisible/CountNonDivisible.MD) <br>
+&nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) C++ and java<br>
+&nbsp; [CountNonDivisible](/11%20Sieve%20of%20Eratosthenes/CountNonDivisible/CountNonDivisible.MD) C++ and java <br>
 
 Lesson 12 Euclidean algorithm<br>
 &nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/commonPrimeDivisors.js) maybe refactor? O(Z * log(max(A) + max(B))**2)<br>
 
 Lesson 13 Fibonacci numbers <br>
-&nbsp; FibFrog <br>
+&nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) C++ and java<br>
+&nbsp; FibFrog ALL <br>
 
 Lesson 14 Binary search algorithm <br>
-&nbsp; MinMaxDivision <br>
-&nbsp; NailingPlanks <br>
+&nbsp; MinMaxDivision ALL <br>
+&nbsp; NailingPlanks ALL <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
-&nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) <br>
-&nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) <br>
-&nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) <br>
-&nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) <br>
+&nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) Java <br>
+&nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) java & C++<br>
+&nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) java <br>
+&nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) java<br>
 
 Lesson 16 Greedy algorithms <br>
-&nbsp; MaxNonoverlappingSegments <br>
-&nbsp; TieRopes <br>
+&nbsp; MaxNonoverlappingSegments ALL <br>
+&nbsp; TieRopes ALL <br>
 
 Lesson 17 Dynamic programming <br>
-&nbsp; NumberSolitaire <br>
-&nbsp; MinAbsSum <br>
+&nbsp; NumberSolitaire  ALL <br>
+&nbsp; MinAbsSum ALL <br>

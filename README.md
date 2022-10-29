@@ -59,7 +59,7 @@ Lesson 13 Fibonacci numbers <br>
 &nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
-&nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) <br>
+&nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) & C++ <br>
 &nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) <br>
 &nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) & C++ <br>
-&nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) <br>
+&nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) & C++ <br>
