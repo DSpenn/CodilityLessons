@@ -44,8 +44,8 @@ Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) java<br>
 
 Lesson 16 Greedy algorithms <br>
-&nbsp; MaxNonoverlappingSegments ALL <br>
-&nbsp; TieRopes ALL <br>
+&nbsp; MaxNonoverlappingSegments java & C++ <br>
+&nbsp; TieRopes java & C++ <br>
 
 Lesson 17 Dynamic programming <br>
 &nbsp; NumberSolitaire  ALL <br>

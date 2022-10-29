@@ -63,3 +63,7 @@ Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) <br>
 &nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) & C++ <br>
 &nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) & C++ <br>
+
+Lesson 16 Greedy algorithms <br>
+&nbsp; [MaxNonoverlappingSegments](/16%20Greedy%20algorithms/MaxNonoverlappingSegments/MaxNonoverlappingSegments.MD) <br>
+&nbsp; [TieRopes](/16%20Greedy%20algorithms/TieRopes/Tieropes.MD) <br>
