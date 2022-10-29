@@ -22,7 +22,7 @@ each element of array H is an integer within the range [1..1,000,000,000].
 
 
 
-javascript 100% O(N) 
+Javascript 100% O(N) 
 ```javascript
 function solution(H) {
   let outputSum = 0;
@@ -44,4 +44,27 @@ function solution(H) {
   return outputSum;
 }
 
+```
+
+C++ 100% O(N)
+```c++
+#include <vector>
+int solution(vector<int> &H) {
+  int outputSum = 0;
+  vector<int> v(H.size());
+  int y = 0;
+  for (unsigned int x = 0; x < H.size(); x += 1) {
+    while (y > 0 && v.at(y - 1) > H[x]) {
+      y -= 1;
+    }
+    if (y > 0 && v[y - 1] == H[x]) {
+      continue;
+    } else {
+      outputSum += 1;
+      v[y] = H[x];
+      y += 1;
+    }
+  }
+  return outputSum;
+}
 ```

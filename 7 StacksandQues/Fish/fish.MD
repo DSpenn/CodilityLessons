@@ -68,3 +68,62 @@ function solution(A, B) {
 console.log(solution([4,4,2,1,5],[0,1,0,0,0])); // returns 2, 
 
 ```
+
+Java 100% O(N)
+```java
+import java.util.Arrays;
+import java.util.Stack;
+
+class Solution {
+  public int solution(int[] A, int[] B) {
+    if (A.length == 0) {
+      return 0;
+    }
+    Stack<Integer> upstream = new Stack<Integer>();
+    int eaten = 0;
+    int fish = 0;
+
+    for (int i = 0; i < A.length; i++) {
+      if (B[i] == 1) {
+        upstream.push(A[i]);
+      } else {
+        while (!upstream.empty()) {
+          eaten += 1;
+          fish = upstream.pop();
+          if (fish > A[i]) {
+            upstream.push(fish);
+            break;
+          }
+        }
+      }
+    }
+    return (A.length - eaten);
+  }
+}
+```
+
+C++ 100% O(N)
+```c++
+#include <stack>
+int solution(vector<int> &A, vector<int> &B) {
+  stack<int> upstream;
+  int eaten = 0;
+  int fish=0;
+  for (auto i = 0; i < A.size(); i++) {
+    if (B[i] == 1) {
+      upstream.push(A[i]);
+    } else {
+      while (upstream.size() > 0) {
+        eaten += 1;
+        fish = upstream.top();
+         upstream.pop();
+        if (fish > A[i]) {
+          upstream.push(fish);
+          break;
+        }
+      }
+    }
+  }
+  return A.size() - eaten;
+}
+```

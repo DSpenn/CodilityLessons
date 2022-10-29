@@ -8,7 +8,6 @@ Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; NumberOfDiscIntersections C++ and java<br>
 
 Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
-&nbsp; [Fish](/7%20StacksandQues/Fish/fish.MD) C++ and java<br>
 &nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD) C++ and java<br>
 
 Lesson 8 Leader <br>
