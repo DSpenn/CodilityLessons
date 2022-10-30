@@ -2,10 +2,10 @@
 
 
 Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
-&nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD) C++ and java<br>
+&nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD) java<br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
-&nbsp; NumberOfDiscIntersections C++ and java<br>
+&nbsp; NumberOfDiscIntersections java<br>
 
 Lesson 8 Leader <br>
 &nbsp; Dominator C++ and java<br>

@@ -11,4 +11,3 @@ function solution(N) {
   return perimeter;
 }
 solution(30);
-// O(sqrt(N))

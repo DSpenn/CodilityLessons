@@ -23,14 +23,14 @@ Lesson 4 [Counting Elements](/4%20Counting%20Elements)<br>
 Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
 &nbsp; [Passing Cars](/5%20PrefixSums/PassingCars/passingCars.MD) + Java & C++<br>
 &nbsp; [Count Div](/5%20PrefixSums/CountDiv/countDiv.MD) + Java & C++<br>
-&nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD)<br>
+&nbsp; [Genomic Range Query](/5%20PrefixSums/GenomicRangeQuery/GRQ.MD) & C++<br>
 &nbsp; [MinAvgTwoSlice](/5%20PrefixSums/MinAvgTwoSlice/MinAvgTwoSlice.MD) + Java & C++<br>
 
 Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; [Distinct](/6%20Sorting/Distinct/Distinct.MD) + Java & C++<br>
 &nbsp; [Triangle](/6%20Sorting/Triangle/Triagle.MD) + Java & C++<br>
 &nbsp; [maxProductofThree](/6%20Sorting/maxProductofThree/MaxProdTree.MD) + Java & C++<br>
-&nbsp; [NumberOfDiscIntersections](/6%20Sorting/NumberOfDiscIntersections/NumberOfDiscIntersections.MD) <br>
+&nbsp; [NumberOfDiscIntersections](/6%20Sorting/NumberOfDiscIntersections/NumberOfDiscIntersections.MD) & C++ <br>
 
 Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
 &nbsp; [Brackets](/7%20StacksandQues/Brackets/brackets.MD) + Java & C++<br>

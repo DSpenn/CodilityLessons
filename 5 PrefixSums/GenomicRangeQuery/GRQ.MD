@@ -77,3 +77,37 @@ console.log('arr', arr);
 //console.log(solution('CAGCCTA', [2, 5, 0], [4, 5, 6])); // should return the values [2, 4, 1]
 console.log(solution('TC', [0, 0, 1], [0, 1, 1])); // [4, 2, 2]).
 ```
+
+
+C++ 100% O(N + M)
+```c++
+#include <algorithm>
+#include <string>
+#include <vector>
+
+vector<int> solution(string &S, vector<int> &P, vector<int> &Q) {
+  vector<int> answer(P.size());
+  vector<int> a(S.size() + 1);
+  vector<int> c(S.size() + 1);
+  vector<int> g(S.size() + 1);
+
+  for (size_t i = 0; i < S.size(); i++) {
+    a[i + 1] = a[i] + (S[i] == 'A');
+    c[i + 1] = c[i] + (S[i] == 'C');
+    g[i + 1] = g[i] + (S[i] == 'G');
+  }
+
+  for (size_t i = 0; i < P.size(); i++) {
+    if (a[Q[i] + 1] - a[P[i]] > 0)
+      answer[i] = 1;
+    else if (c[Q[i] + 1] - c[P[i]] > 0)
+      answer[i] = 2;
+    else if (g[Q[i] + 1] - g[P[i]] > 0)
+      answer[i] = 3;
+    else
+      answer[i] = 4;
+  }
+
+  return answer;
+}
+```

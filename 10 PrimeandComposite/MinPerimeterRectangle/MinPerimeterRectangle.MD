@@ -22,7 +22,7 @@ Write an efficient algorithm for the following assumptions:
 
 N is an integer within the range [1..1,000,000,000].
 
-```javascript
+```javascript O(sqrt(N))
 function solution(N) {
   let i = 1;
   let perimeter;
@@ -36,15 +36,12 @@ function solution(N) {
   return perimeter;
 }
 solution(30);
-// O(sqrt(N))
-
 
 ```
 
 
 Java 100%
 ```Java
-
 class Solution {
   public int solution(int N) {
     int i = 1;
