@@ -7,15 +7,9 @@ Lesson 5 [Prefix Sums](/5%20PrefixSums)<br>
 Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; NumberOfDiscIntersections C++ and java<br>
 
-Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
-&nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD) C++ and java<br>
-
 Lesson 8 Leader <br>
-&nbsp; Dominator ALL<br>
+&nbsp; Dominator C++ and java<br>
 &nbsp; EquiLeader ALL<br>
-
-Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
-&nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) c++ <br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; Flags ALL <br>

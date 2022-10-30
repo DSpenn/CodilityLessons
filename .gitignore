@@ -4,3 +4,5 @@
 5 PrefixSums/GenomicRangeQuery/gRQ.cpp
 11 Sieve of Eratosthenes/CountSemiprimes/CountSemiprimes.cpp
 15 Caterpillar method/CountDistinctSlices/cds.cpp
+13 Fibonacci Numbers/FibFrog/fibFrog.js
+13 Fibonacci Numbers/FibFrog/FibFrog.MD

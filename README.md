@@ -36,12 +36,15 @@ Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
 &nbsp; [Brackets](/7%20StacksandQues/Brackets/brackets.MD) + Java & C++<br>
 &nbsp; [Fish](/7%20StacksandQues/Fish/fish.MD) + Java & C++<br>
 &nbsp; [Nesting](/7%20StacksandQues/Nesting/nesting.MD) + Java & C++<br>
-&nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD) & C++<br>
+&nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD) + Java & C++<br>
+
+Lesson 8 Leader <br>
+&nbsp; [Dominator](/8%20Leader/Dominator/Dominator.MD)<br>
 
 Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
 &nbsp; [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD) + Java & C++<br>
 &nbsp; [MaxSliceSum](/9%20MaxSliceProblem/MaxSliceSum/MaxSliceSum.MD) + Java & C++ <br>
-&nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) + Java <br>
+&nbsp; [MaxDoubleSliceSum](/9%20MaxSliceProblem/MaxDoubleSliceSum/MaxDoubleSliceSum.MD) + Java & C++ <br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD) + Java & C++ <br>
