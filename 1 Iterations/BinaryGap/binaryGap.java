@@ -1,4 +1,3 @@
-
 class Solution {
   public int solution(int N) {
     int maxGap = 0;

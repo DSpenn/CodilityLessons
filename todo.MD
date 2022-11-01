@@ -8,7 +8,7 @@ Lesson 6 [Sorting](/6%20Sorting/)<br>
 &nbsp; NumberOfDiscIntersections java<br>
 
 Lesson 8 Leader <br>
-&nbsp; Dominator C++ and java<br>
+&nbsp; Dominator C++ <br>
 &nbsp; EquiLeader C++ and java<br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
