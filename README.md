@@ -38,8 +38,9 @@ Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
 &nbsp; [Nesting](/7%20StacksandQues/Nesting/nesting.MD) + Java & C++<br>
 &nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD) + Java & C++<br>
 
-Lesson 8 Leader <br>
-&nbsp; [Dominator](/8%20Leader/Dominator/Dominator.MD)<br>
+Lesson 8 [Leader](/8%20Leader/) <br>
+&nbsp; [Dominator](/8%20Leader/Dominator/Dominator.MD) <br>
+&nbsp; [EquiLeader](/8%20Leader/equiLeader/EquiLeader.MD) <br>
 
 Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
 &nbsp; [MaxProfit](/9%20MaxSliceProblem/MaxProfit/MaxProfit.MD) + Java & C++<br>
@@ -63,10 +64,10 @@ Lesson 13 Fibonacci numbers <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) & C++ <br>
-&nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) <br>
+&nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) & C++ <br>
 &nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) & C++ <br>
 &nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) & C++ <br>
 
-Lesson 16 Greedy algorithms <br>
+Lesson 16 [Greedy algorithms](/16%20Greedy%20algorithms/) <br>
 &nbsp; [MaxNonoverlappingSegments](/16%20Greedy%20algorithms/MaxNonoverlappingSegments/MaxNonoverlappingSegments.MD) <br>
 &nbsp; [TieRopes](/16%20Greedy%20algorithms/TieRopes/Tieropes.MD) <br>

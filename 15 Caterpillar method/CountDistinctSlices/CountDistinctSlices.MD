@@ -41,36 +41,48 @@ each element of array A is an integer within the range [0..M].
 javascript 100%  O(N) 
 ```javascript
 function solution(M, A) {
+  if (A.length === 1) return 1;
   const LIMIT = 1000000000;
-  const lastPos = [];
   let count = 0;
   let start = 0;
-
-  if (A.length === 1) return 1;
-  let i = 0;
-
-  for (i = 0; i <= M; i += 1) {
-    lastPos[i] = -1;
-  }
-
-  for (i = 0; i < A.length; i += 1) {
-    const item = A[i];
-
-    if (lastPos[item] + 1 > start) {
-      start = lastPos[item] + 1;
+  const lastPos = new Array(M + 1).fill(-1);
+  
+  for (let i = 0; i < A.length; i += 1) {
+    if (lastPos[A[i]] + 1 > start) {
+      start = lastPos[A[i]] + 1;
     }
-
-    lastPos[item] = i;
+    lastPos[A[i]] = i;
     count += i - start + 1;
 
     if (count > LIMIT) break;
   }
-
-  return count > LIMIT ? LIMIT : count;
+  return count > LIMIT ? LIMIT: count;
 }
 
-console.time('time');
-console.log(solution(6,[3,4,5,5,2]));
-console.timeEnd('time');
+```
 
+C++ 100% O(N)
+```c++
+#include <algorithm>
+#include <vector>
+
+int solution(int M, vector<int> &A) {
+  if (A.size() == 1) return 1;
+  int LIMIT = 1000000000;
+  vector<int> lastPos(M + 1, 0);
+  fill(lastPos.begin(), lastPos.end(), -1);
+  int count = 0;
+  int start = 0;
+
+  for (size_t i = 0; i < A.size(); i += 1) {
+    if (lastPos[A[i]] + 1 > start) {
+      start = lastPos[A[i]] + 1;
+    }
+    lastPos[A[i]] = i;
+    count += i - start + 1;
+
+    if (count > LIMIT) break;
+  }
+  return count > LIMIT ? LIMIT : count;
+}
 ```

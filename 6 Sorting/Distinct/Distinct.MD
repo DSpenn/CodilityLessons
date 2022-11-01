@@ -17,14 +17,9 @@ each element of array A is an integer within the range [−1,000,000..1,000,000]
 ```javascript
 function solution(A) {
   const distinctSet = new Set(A);
-  console.log(distinctSet);
-
   return distinctSet.size;
 }
-
-console.log(solution([2,1,1,2,3,1])); //the function should return 3, 
-//because there are 3 distinct values appearing in array A, namely 1, 2 and 3.
-
+console.log(solution([2,1,1,2,3,1]));
 
 ```
 
@@ -52,15 +47,14 @@ class Solution {
 }
 ```
 
-C++
+C++ 100% O(N*log(N)) or O(N)
 ```C++
-#include <set>
+#include <algorithm>
+#include <vector>
 
 int solution(vector<int> &A) {
-  set<int> mySet;
-  for (int i = 0; i < A.size(); i++) {
-    if (mySet.count(A[i]) == 0) mySet.insert(A[i]);
-  }
-  return mySet.size();
+  sort(A.begin(), A.end());
+  A.erase(unique(A.begin(), A.end()), A.end());
+  return A.size();
 }
 ```

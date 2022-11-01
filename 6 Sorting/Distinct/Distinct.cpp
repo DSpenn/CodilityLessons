@@ -1,3 +1,14 @@
+#include <algorithm>
+#include <vector>
+
+int solution(vector<int> &A) {
+  sort(A.begin(), A.end());
+  A.erase(unique(A.begin(), A.end()), A.end());
+  return A.size();
+}
+
+
+/* 
 #include <set>
 
 int solution(vector<int> &A) {
@@ -7,3 +18,4 @@ int solution(vector<int> &A) {
   }
   return mySet.size();
 }
+ */

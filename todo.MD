@@ -9,7 +9,7 @@ Lesson 6 [Sorting](/6%20Sorting/)<br>
 
 Lesson 8 Leader <br>
 &nbsp; Dominator C++ and java<br>
-&nbsp; EquiLeader ALL<br>
+&nbsp; EquiLeader C++ and java<br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; Flags ALL <br>
@@ -32,7 +32,7 @@ Lesson 14 Binary search algorithm <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) Java <br>
-&nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) java & C++<br>
+&nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) Java<br>
 &nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) java <br>
 &nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) java<br>
 

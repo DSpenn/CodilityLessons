@@ -45,7 +45,6 @@ function solution(A) {
 
 console.log(solution([-3,1,2,-2,5,6]));
 
-
 ```
 
 Java
