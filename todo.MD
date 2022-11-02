@@ -31,8 +31,6 @@ Lesson 14 Binary search algorithm <br>
 &nbsp; NailingPlanks ALL <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
-&nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) Java <br>
-&nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) Java<br>
 &nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) java <br>
 &nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) java<br>
 

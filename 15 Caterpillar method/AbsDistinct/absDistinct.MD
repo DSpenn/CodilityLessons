@@ -39,6 +39,21 @@ function solution(A) {
 console.log(solution([-5, -3, -1, 0, 3, 6]));
 ```
 
+Java 100% O(N) or O(N*log(N))
+```java
+import java.util.*;
+
+class Solution {
+  public int solution(int[] A) {
+    Set<Integer> s = new HashSet<Integer>();
+    for (int i = 0; i < A.length; i++) {
+      s.add(Math.abs(A[i]));
+    }
+    return s.size();
+  }
+}
+```
+
 
 C++ 100% O(N) or O(N*log(N))
 ```c++
