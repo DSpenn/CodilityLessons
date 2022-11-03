@@ -39,5 +39,5 @@ Lesson 16 Greedy algorithms <br>
 &nbsp; TieRopes java & C++ <br>
 
 Lesson 17 Dynamic programming <br>
-&nbsp; NumberSolitaire  ALL <br>
+&nbsp; NumberSolitaire  java & C++ <br>
 &nbsp; MinAbsSum ALL <br>
