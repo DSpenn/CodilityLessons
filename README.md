@@ -50,6 +50,8 @@ Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD) + Java & C++ <br>
 &nbsp; [Min Perimeter Rectangle](/10%20PrimeandComposite/MinPerimeterRectangle/MinPerimeterRectangle.MD) + Java & C++ <br>
+&nbsp; [Flags](/10%20PrimeandComposite/Flags/Flags.MD) <br>
+&nbsp; [Peaks](/10%20PrimeandComposite/Peaks/Peaks.MD) <br>
 
 Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 &nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) <br>
