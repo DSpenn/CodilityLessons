@@ -63,6 +63,7 @@ Lesson 12 [Euclidean algorithm](/12%20Euclidean%20algorithm/)<br>
 
 Lesson 13 Fibonacci numbers <br>
 &nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) <br>
+&nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) + Java & C++ <br>
@@ -75,4 +76,5 @@ Lesson 16 [Greedy algorithms](/16%20Greedy%20algorithms/) <br>
 &nbsp; [TieRopes](/16%20Greedy%20algorithms/TieRopes/Tieropes.MD) <br>
 
 Lesson 17 Dynamic programming <br>
-&nbsp; [NumberSolitaire](/17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.MD)<br>
+&nbsp; [NumberSolitaire](/17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.MD) <br>
+&nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) <br>

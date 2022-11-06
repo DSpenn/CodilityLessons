@@ -24,7 +24,7 @@ Lesson 12 Euclidean algorithm<br>
 
 Lesson 13 Fibonacci numbers <br>
 &nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) C++ and java<br>
-&nbsp; FibFrog ALL <br>
+&nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) C++ and java<br>
 
 Lesson 14 Binary search algorithm <br>
 &nbsp; MinMaxDivision ALL <br>
@@ -40,4 +40,4 @@ Lesson 16 Greedy algorithms <br>
 
 Lesson 17 Dynamic programming <br>
 &nbsp; NumberSolitaire  java & C++ <br>
-&nbsp; MinAbsSum ALL <br>
+&nbsp; MinAbsSum java & C++ <br>
