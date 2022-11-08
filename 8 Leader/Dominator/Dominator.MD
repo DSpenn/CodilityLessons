@@ -30,21 +30,62 @@ Javascript 100% O(N*log(N)) or O(N)
 ```javascript
 function solution(A) {
   const count = {};
-  const indices = [];
-  A.forEach(e => {
-    count[e] = (count[e] || 0) + 1
-  });
+  A.forEach(e => { count[e] = (count[e] || 0) + 1 });
   const domin = Math.max(...Object.values(count));
-  if (domin <= (A.length / 2)) return -1;
-  let key = parseInt(Object.keys(count).find(k => count[k] === domin));
-  let idx = A.indexOf(key);
-  while (idx != -1) {
-    indices.push(idx);
-    idx = A.indexOf(key, idx + 1);
+  const half = Math.floor(A.length / 2);
+  if (domin <= half) return -1;
+  for (let i = 0; i < A.length; i++) {
+    if (count[A[i]] > half) return i
   }
-  return indices[0];
 }
 ```
+
+
+Java 11 100%  O(N*log(N)) or O(N)
+```java
+import java.util.*;
+class Solution {
+  public int solution(int[] A) {
+    if (A.length == 0) {
+      return -1;
+    }
+    HashMap<Integer, Integer> freq = new HashMap<Integer, Integer>();
+    for (int i : A) {
+      if (freq.containsKey(i))
+        freq.put(i, freq.get(i) + 1);
+      else
+        freq.put(i, 1);
+    }
+
+    int half = A.length / 2;
+    int domin = Collections.max(freq.values());
+
+    if (domin <= half)
+      return -1;
+
+    int toFind = 0;
+
+    for (Map.Entry e : freq.entrySet()) {
+      if (domin == (int) e.getValue()) {
+        toFind = (int) e.getKey();
+      }
+    }
+
+    for (int i = 0; i < A.length; i++) {
+      if (A[i] == toFind) {
+        return i;
+      }
+    }
+
+    return -1;
+  }
+}
+```
+
+
+
+
+
 
 
 C++ 100% O(N*log(N)) or O(N)

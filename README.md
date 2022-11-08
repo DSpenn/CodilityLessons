@@ -39,7 +39,7 @@ Lesson 7 [Stacks and Queues](/7%20StacksandQues/) <br>
 &nbsp; [StoneWall](/7%20StacksandQues/StoneWall/stoneWall.MD) + Java & C++<br>
 
 Lesson 8 [Leader](/8%20Leader/) <br>
-&nbsp; [Dominator](/8%20Leader/Dominator/Dominator.MD) & C++<br>
+&nbsp; [Dominator](/8%20Leader/Dominator/Dominator.MD) + Java & C++<br>
 &nbsp; [EquiLeader](/8%20Leader/equiLeader/EquiLeader.MD) <br>
 
 Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>

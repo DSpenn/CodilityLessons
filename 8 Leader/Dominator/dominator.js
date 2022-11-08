@@ -1,14 +1,13 @@
 function solution(A) {
   const count = {};
-  const indices = [];
   A.forEach(e => { count[e] = (count[e] || 0) + 1 });
+  console.log(count);
   const domin = Math.max(...Object.values(count));
-  if (domin <= (A.length / 2)) return -1;
-  let key = parseInt(Object.keys(count).find(k => count[k] === domin));
-  let idx = A.indexOf(key);
-  while (idx != -1) {
-    indices.push(idx);
-    idx = A.indexOf(key, idx + 1);
+  const half = Math.floor(A.length / 2);
+  if (domin <= half) return -1;
+  for (let i = 0; i < A.length; i++) {
+    if (count[A[i]] > half) return i
   }
-  return indices[0];
 }
+//console.log(solution([2, 2, 2, 2, 3, 3, 3, 3]));
+console.log(solution([3, 4, 3, 2, 3, -1, 3, 3]));

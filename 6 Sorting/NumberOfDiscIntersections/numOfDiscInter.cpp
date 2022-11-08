@@ -13,7 +13,8 @@ int solution(vector<int> &A) {
   int result = 0;
   int j = 0, k = 0;
   while (j < A.size()) {
-    while (k < A.size() && range2[j] >= range1[k]) k++;
+    while (k < A.size() && range2[j] >= range1[k]) 
+    k++;
     result += k - j - 1;
     j++;
     if (result > 10000000) return -1;
