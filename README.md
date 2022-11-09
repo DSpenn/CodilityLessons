@@ -72,8 +72,8 @@ Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) & C++ <br>
 
 Lesson 16 [Greedy algorithms](/16%20Greedy%20algorithms/) <br>
-&nbsp; [MaxNonoverlappingSegments](/16%20Greedy%20algorithms/MaxNonoverlappingSegments/MaxNonoverlappingSegments.MD) <br>
-&nbsp; [TieRopes](/16%20Greedy%20algorithms/TieRopes/Tieropes.MD) <br>
+&nbsp; [MaxNonoverlappingSegments](/16%20Greedy%20algorithms/MaxNonoverlappingSegments/MaxNonoverlappingSegments.MD) O(N) Java & C++ <br>
+&nbsp; [TieRopes](/16%20Greedy%20algorithms/TieRopes/Tieropes.MD) O(N) Java & C++ <br>
 
 Lesson 17 Dynamic programming <br>
 &nbsp; [NumberSolitaire](/17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.MD) <br>

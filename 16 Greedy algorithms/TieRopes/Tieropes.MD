@@ -61,3 +61,44 @@ function solution(K, A) {
   return count;
 }
 ```
+
+C++ 100% O(N)
+```c++
+int solution(int K, vector<int> &A) {
+  if (K == 1) return A.size();
+
+  int count = 0;
+  int sum = 0;
+
+  for (auto i = 0; i < A.size(); i += 1) {
+    sum += A[i];
+    if (sum >= K) {
+      sum = 0;
+      count += 1;
+    }
+  }
+  return count;
+}
+```
+
+Java 100% O(N)
+```java
+class Solution {
+  public int solution(int K, int[] A) {
+    if (K == 1)
+      return A.length;
+
+    int count = 0;
+    int sum = 0;
+
+    for (int i = 0; i < A.length; i += 1) {
+      sum += A[i];
+      if (sum >= K) {
+        sum = 0;
+        count += 1;
+      }
+    }
+    return count;
+  }
+}
+```

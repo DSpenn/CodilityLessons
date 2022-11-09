@@ -52,9 +52,6 @@ solution([1, 5, 2, 1, 4, 0]); //  11
 
 ```
 
-
-
-
 C++ 100% O(N*log(N)) or O(N)
 ```c++
 #include <algorithm>

@@ -33,10 +33,6 @@ Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) java <br>
 &nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) java<br>
 
-Lesson 16 Greedy algorithms <br>
-&nbsp; MaxNonoverlappingSegments java & C++ <br>
-&nbsp; TieRopes java & C++ <br>
-
 Lesson 17 Dynamic programming <br>
 &nbsp; NumberSolitaire  java & C++ <br>
 &nbsp; MinAbsSum java & C++ <br>
