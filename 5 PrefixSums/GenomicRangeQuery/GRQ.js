@@ -1,19 +1,16 @@
 function solution(S, P, Q) {
   const arr = [];
   const scores = [];
-  const maxLen = S.length;
- 
-  console.log('length/ maxLen', S.length);
 
   for (let x = 0; x < P.length; x += 1) {
     if (P[x] == Q[x]) {
       arr.push(S.charAt(P[x]));
     } else {
-      console.log('S.substring(P[x], Q[x + 1]', S.substring(P[x], Q[x]+1));
+      //console.log('S.substring(P[x], Q[x + 1]', S.substring(P[x], Q[x]+1));
       arr.push(S.substring(P[x], Q[x]+1));
     }
   }
-console.log('arr', arr);
+  //console.log('arr', arr);
 
   for (let i = 0; i < arr.length; i += 1) {
     if (arr[i].includes('A') && arr[i].includes('C') && arr[i].includes('G') && arr[i].includes('T')) {
@@ -31,5 +28,5 @@ console.log('arr', arr);
   return scores;
 }
 
-//console.log(solution('CAGCCTA', [2, 5, 0], [4, 5, 6])); // should return the values [2, 4, 1]
-console.log(solution('TC', [0, 0, 1], [0, 1, 1])); // [4, 2, 2]).
+/* console.log(solution('CAGCCTA', [2, 5, 0], [4, 5, 6])); // should return the values [2, 4, 1]
+console.log(solution('TC', [0, 0, 1], [0, 1, 1])); // [4, 2, 2]). */

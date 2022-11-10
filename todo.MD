@@ -16,10 +16,6 @@ Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 
 Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 &nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) C++ and java<br>
-&nbsp; [CountNonDivisible](/11%20Sieve%20of%20Eratosthenes/CountNonDivisible/CountNonDivisible.MD) C++ and java <br>
-
-Lesson 12 Euclidean algorithm<br>
-&nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/commonPrimeDivisors.js) maybe refactor? O(Z * log(max(A) + max(B))**2)<br>
 
 Lesson 13 Fibonacci numbers <br>
 &nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) C++ and java<br>

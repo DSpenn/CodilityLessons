@@ -55,7 +55,7 @@ Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 
 Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 &nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) <br>
-&nbsp; [CountNonDivisible](/11%20Sieve%20of%20Eratosthenes/CountNonDivisible/CountNonDivisible.MD) <br>
+&nbsp; [CountNonDivisible](/11%20Sieve%20of%20Eratosthenes/CountNonDivisible/CountNonDivisible.MD) + Java & C++ <br>
 
 Lesson 12 [Euclidean algorithm](/12%20Euclidean%20algorithm/)<br>
 &nbsp; [Chocolates By Numbers](/12%20Euclidean%20algorithm/ChocolatesByNumbers/ChocolatesByNumbers.MD) + Java & C++ <br>

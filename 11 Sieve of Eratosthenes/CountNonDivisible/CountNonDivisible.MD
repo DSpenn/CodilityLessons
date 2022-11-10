@@ -59,3 +59,65 @@ function solution(A) {
 solution([3, 1, 2, 3, 6]); // [2, 4, 3, 2, 0]
 
 ```
+
+
+
+Java 100% O(N * log(N))
+```java
+import java.util.*;
+
+class Solution {
+  public int[] solution(int[] A) {
+    int[] counters = new int[A.length * 2 + 1];
+    for (int x = 0; x < A.length; x += 1) {
+      counters[A[x]] += 1;
+    }
+    // System.out.println(Arrays.toString(counters));
+    int[] a = new int[A.length];
+    for (int x = 0; x < A.length; x++) {
+      int nonDivisor = A.length;
+      for (int i = 1; i * i <= A[x]; i += 1) {
+        if (A[x] % i != 0) continue;
+        nonDivisor -= counters[i];
+        if (i * i != A[x]) {
+          nonDivisor -= counters[A[x] / i];
+        }
+        a[x] = nonDivisor;
+      }
+    }
+    // System.out.println(Arrays.toString(a));
+    return a;
+  }
+}
+```
+
+
+
+C++ 100% O(N * log(N))
+```c++
+#include <vector>
+
+vector<int> solution(vector<int> &A) {
+  vector<int> counters(A.size() * 2 + 1);
+  for (size_t x = 0; x < A.size(); x += 1) {
+    counters[A[x]]++;
+  }
+  // for (int x : counters) { cout << x << " "; }
+  vector<int> a(A.size());
+  int nonDivisor = 0;
+  int num = 0;
+  for (auto x = 0; x < A.size(); x++) {
+    num = A[x];
+    nonDivisor = A.size();
+    for (auto i = 1; i * i <= num; i += 1) {
+      if (num % i != 0) { continue; }
+      nonDivisor -= counters[i];
+      if (i * i != num) {
+        nonDivisor -= counters[num / i];
+      }
+      a[x] = nonDivisor;
+    }
+  }
+  return a;
+}
+```
