@@ -15,7 +15,7 @@ Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; [Peaks](/10%20PrimeandComposite/Peaks/Peaks.MD) C++ and java <br>
 
 Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
-&nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) C++ and java<br>
+&nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) java<br>
 
 Lesson 13 Fibonacci numbers <br>
 &nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) C++ and java<br>

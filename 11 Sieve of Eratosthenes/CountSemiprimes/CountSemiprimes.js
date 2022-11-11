@@ -22,7 +22,9 @@ function solution(N, P, Q) {
       semiPCount += 1;
     } else semiPrime[y] = semiPCount;
   }
+  console.log(semiPrime);
   for (let x = 0; x < P.length; x += 1) {
+    console.log('Q[x]', Q[x],' ',semiPrime[Q[x]] , '  ', P[x] , '  ',semiPrime[P[x] - 1] );
     outputArr.push(semiPrime[Q[x]] - semiPrime[P[x] - 1]);
   }
   console.log(outputArr);

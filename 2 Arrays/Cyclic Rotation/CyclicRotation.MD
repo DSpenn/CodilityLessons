@@ -34,23 +34,19 @@ Assume that:
 N and K are integers within the range [0..100];
 each element of array A is an integer within the range [−1,000..1,000].
 
-
+JavaScript
 ```javascript
 function solution(A, K) {
   if (!A.length) return [];
   for (let i = 0; i < K; i++) {
     const tail = A[A.length - 1];
-    console.log(A[A.length - 1]);
-    console.log('tail', tail);
     A.pop();
     A.unshift(tail);
   }
   return A;
 }
-
 console.log(solution([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 3));
 console.log(solution([3, 8, 9, 7, 6], 3));
-
 
 ```
 
@@ -60,12 +56,10 @@ Java
 class Solution {
   public int[] solution(int[] A, int K) {
     int[] result = new int[A.length];
-
     for (int i = 0; i < result.length; i++) {
       int newPosition = (i + K) % result.length;
       result[newPosition] = A[i];
     }
-  
     return result;
   }
 }
@@ -75,7 +69,6 @@ class Solution {
 C++ 100%
 ```C++
 #include <algorithm>
-
 vector<int> solution(vector<int> &A, int K) {
   if (A.size() < 2) return A;
   if (K == 0) return A;
@@ -83,5 +76,4 @@ vector<int> solution(vector<int> &A, int K) {
   rotate(A.rbegin(), A.rbegin() + K, A.rend());
   return A;
 }
-
 ```

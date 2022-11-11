@@ -2,8 +2,6 @@ function solution(A, K) {
   if (!A.length) return [];
   for (let i = 0; i < K; i++) {
     const tail = A[A.length - 1];
-    console.log(A[A.length - 1]);
-    console.log('tail', tail);
     A.pop();
     A.unshift(tail);
   }
