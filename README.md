@@ -61,9 +61,12 @@ Lesson 12 [Euclidean algorithm](/12%20Euclidean%20algorithm/)<br>
 &nbsp; [Chocolates By Numbers](/12%20Euclidean%20algorithm/ChocolatesByNumbers/ChocolatesByNumbers.MD) + Java & C++ <br>
 &nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/CommonPrimeDivisors.md) & C++ <br>
 
-Lesson 13 Fibonacci numbers <br>
+Lesson 13 [Fibonacci numbers](/13%20Fibonacci%20Numbers/) <br>
 &nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) <br>
 &nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) <br>
+
+Lesson 14 Binary search algorithm <br>
+&nbsp; [MinMaxDivision](/14%20Binary%20search%20algorithm/MinMaxDivision/MinMaxDivision.MD) <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) + Java & C++ <br>
@@ -75,6 +78,6 @@ Lesson 16 [Greedy algorithms](/16%20Greedy%20algorithms/) <br>
 &nbsp; [MaxNonoverlappingSegments](/16%20Greedy%20algorithms/MaxNonoverlappingSegments/MaxNonoverlappingSegments.MD) O(N) Java & C++ <br>
 &nbsp; [TieRopes](/16%20Greedy%20algorithms/TieRopes/Tieropes.MD) O(N) Java & C++ <br>
 
-Lesson 17 Dynamic programming <br>
+Lesson 17 [Dynamic programming](/17%20Dynamic%20programming/) <br>
 &nbsp; [NumberSolitaire](/17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.MD) <br>
 &nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) O(N) Java & C++<br>

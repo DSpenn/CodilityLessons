@@ -22,7 +22,7 @@ Lesson 13 Fibonacci numbers <br>
 &nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) C++ and java<br>
 
 Lesson 14 Binary search algorithm <br>
-&nbsp; MinMaxDivision ALL <br>
+&nbsp; MinMaxDivision C++ & java <br>
 &nbsp; NailingPlanks ALL <br>
 
 Lesson 17 Dynamic programming <br>
