@@ -77,4 +77,4 @@ Lesson 16 [Greedy algorithms](/16%20Greedy%20algorithms/) <br>
 
 Lesson 17 Dynamic programming <br>
 &nbsp; [NumberSolitaire](/17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.MD) <br>
-&nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) <br>
+&nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) O(N) Java & C++<br>

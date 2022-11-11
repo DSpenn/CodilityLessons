@@ -3,15 +3,14 @@ function solution(N) {
   let result = 0;
 
   while (i * i <= N) {
-      if (N % i === 0) {
-
-          if (i === N / i) {
-            result++;
-          } else {
-            result += 2;
-          }
+    if (N % i === 0) {
+      if (i === N / i) {
+        result++;
+      } else {
+        result += 2;
       }
-      i++;
+    }
+    i++;
   }
   return result;
 }

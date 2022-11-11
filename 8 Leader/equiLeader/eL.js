@@ -7,8 +7,8 @@ function solution(A) {
     if (obj.hasOwnProperty(A[i])) {
       obj[A[i]][0]++;
       if (obj[A[i]][0] > maxRep && obj[A[i]][0] > A.length / 2) {
-        maxRep = obj[A[i]][0];
-        maxIndex = obj[A[i]][1];
+          maxRep = obj[A[i]][0];
+          maxIndex = obj[A[i]][1];
       }
     } else {
       obj[A[i]] = new Array();

@@ -1,6 +1,6 @@
 function solution(A) {
-  const sumsL = A.map(() => 0);
-  const sumsR = A.map(() => 0);
+  const sumsL = new Array(A.length).fill(0);
+  const sumsR = new Array(A.length).fill(0);
   for (let left = 1, right = A.length - 2; right >= 2; left += 1, right -= 1) {
     sumsL[left] = Math.max(0, sumsL[left - 1] + A[left]);
     sumsR[right] = Math.max(0, sumsR[right + 1] + A[right]);
@@ -11,3 +11,5 @@ function solution(A) {
   }
   return max;
 }
+
+console.log(solution([3, 2, 6, -1, 4, 5, -1, 2]));
