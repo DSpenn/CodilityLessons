@@ -68,8 +68,8 @@ Lesson 13 Fibonacci numbers <br>
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) + Java & C++ <br>
 &nbsp; [CountDistinctSlices](/15%20Caterpillar%20method/CountDistinctSlices/CountDistinctSlices.MD) + Java & C++ <br>
-&nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) & C++ <br>
-&nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) & C++ <br>
+&nbsp; [CountTriangles](/15%20Caterpillar%20method/CountTriangles/CountTriangles.MD) + Java & C++ <br>
+&nbsp; [MinAbsSumOfTwo](/15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.MD) + Java & C++ <br>
 
 Lesson 16 [Greedy algorithms](/16%20Greedy%20algorithms/) <br>
 &nbsp; [MaxNonoverlappingSegments](/16%20Greedy%20algorithms/MaxNonoverlappingSegments/MaxNonoverlappingSegments.MD) O(N) Java & C++ <br>
