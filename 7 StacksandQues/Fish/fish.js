@@ -20,5 +20,4 @@ function solution(A, B) {
 
   return A.length - eaten;
 }
-
-console.log(solution([4,4,2,1,5],[0,1,0,0,0])); // returns 2, 
+console.log(solution([4, 4, 2, 1, 5], [0, 1, 0, 0, 0])); // returns 2, 

@@ -24,7 +24,7 @@ function solution(K, M, A) {
       result = mid;
       end = mid - 1;
     }
-}
-return result;
+  }
+  return result;
 }
 //console.log(solution(3, 5, [2, 1, 5, 1, 2, 2, 2]));

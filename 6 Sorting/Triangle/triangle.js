@@ -1,15 +1,14 @@
-function solution(A)
-{
+function solution(A) {
   A.sort((a, b) => a - b);
 
-  for (let x = 0; x < (A.length-2); x++) {
+  for (let x = 0; x < (A.length - 2); x++) {
     const p = A[x];
-    const q = A[x+1];
-    const r = A[x+2];
+    const q = A[x + 1];
+    const r = A[x + 2];
 
     if ((0 <= p < q < r < A.length) && (p + q) > r && (q + r) > p && (r + p) > q)
       return 1
-    
+
   }
   return 0;
 }

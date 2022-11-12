@@ -19,11 +19,9 @@ function solution(A) {
   const distinctSet = new Set(A);
   return distinctSet.size;
 }
-console.log(solution([2,1,1,2,3,1]));
+console.log(solution([2, 1, 1, 2, 3, 1]));
 
 ```
-
-
 
 Java
 ```java
@@ -41,7 +39,6 @@ class Solution {
     for (int element : A) {
       Set.add(element);
     }
-    // System.out.println(Set.size());
     return Set.size();
   }
 }

@@ -14,15 +14,12 @@ A and B are integers within the range [0..2,000,000,000];
 K is an integer within the range [1..2,000,000,000];
 A ≤ B.
 
+JavaScript 100%
 ```javascript
-function solution(A, B, K)
-{
-  console.log('Math.floor(B/K)',Math.floor(B/K));
-  console.log('Math.floor((A-1)/K', Math.floor((A-1)/K));
-  return (Math.floor(B/K) - Math.floor((A-1)/K));
+function solution(A, B, K) {
+  return (Math.floor(B / K) - Math.floor((A - 1) / K));
 }
-
-console.log(solution(6,11,2)) //should return 3
+console.log(solution(6, 11, 2)) //should return 3. 3 numbers divisible by 2 
 
 ```
 

@@ -18,13 +18,13 @@ function solution(N, P, Q) {
   let semiPCount = 0;
   for (let y = 0; y <= N; y += 1) {
     if (isSemiPrime(y)) {
-      semiPrime[y] = semiPCount+1;
+      semiPrime[y] = semiPCount + 1;
       semiPCount += 1;
     } else semiPrime[y] = semiPCount;
   }
   console.log(semiPrime);
   for (let x = 0; x < P.length; x += 1) {
-    console.log('Q[x]', Q[x],' ',semiPrime[Q[x]] , '  ', P[x] , '  ',semiPrime[P[x] - 1] );
+    //console.log('Q[x]', Q[x], ' ', semiPrime[Q[x]], '  ', P[x], '  ', semiPrime[P[x] - 1]);
     outputArr.push(semiPrime[Q[x]] - semiPrime[P[x] - 1]);
   }
   console.log(outputArr);

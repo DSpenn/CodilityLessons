@@ -36,14 +36,13 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [3..100,000];
 each element of array A is an integer within the range [−1,000..1,000].
 
-
+JavaScript 100% O(N * log(N))
 ```javascript
 function solution(A) {
   A.sort((a, b) => (a - b));
-  return Math.max(A[A.length - 1] * A[A.length - 2] * A[A.length - 3], A[A.length - 1] * A[0] * A[1]) ;
+  return Math.max(A[A.length - 1] * A[A.length - 2] * A[A.length - 3], A[A.length - 1] * A[0] * A[1]);
 }
-
-console.log(solution([-3,1,2,-2,5,6]));
+console.log(solution([-3, 1, 2, -2, 5, 6]));
 
 ```
 

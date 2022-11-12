@@ -1,7 +1,7 @@
 function solution(A) {
   A.sort((a, b) => a - b);
   let count = 0;
-  
+
   for (let i = 0; i < A.length - 2; i += 1) {
     let k = i + 2;
     for (let j = i + 1; j < A.length; j += 1) {

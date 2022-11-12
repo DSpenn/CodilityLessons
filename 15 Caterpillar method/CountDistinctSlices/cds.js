@@ -4,7 +4,7 @@ function solution(M, A) {
   let count = 0;
   let start = 0;
   const lastPos = new Array(M + 1).fill(-1);
-  
+
   for (let i = 0; i < A.length; i += 1) {
     if (lastPos[A[i]] + 1 > start) {
       start = lastPos[A[i]] + 1;
@@ -14,7 +14,7 @@ function solution(M, A) {
 
     if (count > LIMIT) break;
   }
-  return count > LIMIT ? LIMIT: count;
+  return count > LIMIT ? LIMIT : count;
 }
 
 /* 

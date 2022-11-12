@@ -1,7 +1,6 @@
 function solution(A) {
   const count = {};
   A.forEach(e => { count[e] = (count[e] || 0) + 1 });
-  console.log(count);
   const domin = Math.max(...Object.values(count));
   const half = Math.floor(A.length / 2);
   if (domin <= half) return -1;

@@ -50,7 +50,6 @@ function solution(A) {
   }
   return sum;
 }
-
 console.log(solution([0, 1, 0, 1, 1]));
 console.log(solution([0]));
 

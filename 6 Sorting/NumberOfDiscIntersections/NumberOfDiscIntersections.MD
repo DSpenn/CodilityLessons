@@ -31,7 +31,7 @@ each element of array A is an integer within the range [0..2,147,483,647].
 
 
 
-Javascript 100 % O(N*log(N)) or O(N)
+Javascript 100% O(N*log(N)) or O(N)
 ```javascript
 function solution(A) {
   let answer = 0;
