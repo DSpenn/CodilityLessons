@@ -23,7 +23,7 @@ Lesson 13 Fibonacci numbers <br>
 
 Lesson 14 Binary search algorithm <br>
 &nbsp; MinMaxDivision C++ & java <br>
-&nbsp; NailingPlanks ALL <br>
+&nbsp; NailingPlanks C++ & java <br>
 
 Lesson 17 Dynamic programming <br>
-&nbsp; [NumberSolitaire](/17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.MD) java & C++  <br>
+&nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) java & C++ <br>

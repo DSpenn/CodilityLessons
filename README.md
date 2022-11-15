@@ -59,14 +59,15 @@ Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 
 Lesson 12 [Euclidean algorithm](/12%20Euclidean%20algorithm/)<br>
 &nbsp; [Chocolates By Numbers](/12%20Euclidean%20algorithm/ChocolatesByNumbers/ChocolatesByNumbers.MD)  O(log(N + M))  Java & C++ <br>
-&nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/CommonPrimeDivisors.md) O(Z * log(max(A) + max(B))**2)  C++ <br>
+&nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/CommonPrimeDivisors.md)    O(Z * log(max(A) + max(B))**2)  C++ <br>
 
 Lesson 13 [Fibonacci numbers](/13%20Fibonacci%20Numbers/) <br>
 &nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) O(L)  <br>
 &nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) O(N * log(N)) <br>
 
-Lesson 14 Binary search algorithm <br>
+Lesson 14 [Binary search algorithm](/14%20Binary%20search%20algorithm/) <br>
 &nbsp; [MinMaxDivision](/14%20Binary%20search%20algorithm/MinMaxDivision/MinMaxDivision.MD) O(N*log(N+M)) <br>
+&nbsp; [NailingPlanks](/14%20Binary%20search%20algorithm/NailingPlanks/NailingPlanks.MD) O((N + M) * log(M)) <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) O(N) or O(N*log(N)) Java & C++ <br>
@@ -79,5 +80,5 @@ Lesson 16 [Greedy algorithms](/16%20Greedy%20algorithms/) <br>
 &nbsp; [TieRopes](/16%20Greedy%20algorithms/TieRopes/Tieropes.MD) O(N) Java & C++ <br>
 
 Lesson 17 [Dynamic programming](/17%20Dynamic%20programming/) <br>
-&nbsp; [NumberSolitaire](/17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.MD) O(N) <br>
-&nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) O(N) Java & C++<br>
+&nbsp; [NumberSolitaire](/17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.MD) O(N) Java & C++ <br>
+&nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) O(N) <br>
