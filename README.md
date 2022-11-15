@@ -1,6 +1,6 @@
 # CodilityLessons
 
-Solutions to [Codility lessons](https://app.codility.com/programmers/lessons) in Javascript, Java and C++
+All solutions to [Codility lessons](https://app.codility.com/programmers/lessons) in Javascript, some in Java and C++
 
 Lesson 1 Iterations<br>
 &nbsp;  [Binary Gap](/1%20Iterations/BinaryGap/BinaryGap.MD) + Java & C++<br>
@@ -50,8 +50,8 @@ Lesson 9 [MaxSliceProblem](/9%20MaxSliceProblem/)<br>
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
 &nbsp; [Count Factors](/10%20PrimeandComposite/CountFactors/countFactors.MD)  O(sqrt(N)) Java & C++ <br>
 &nbsp; [Min Perimeter Rectangle](/10%20PrimeandComposite/MinPerimeterRectangle/MinPerimeterRectangle.MD) O(sqrt(N)) Java & C++ <br>
-&nbsp; [Flags](/10%20PrimeandComposite/Flags/Flags.MD) O(N) <br>
-&nbsp; [Peaks](/10%20PrimeandComposite/Peaks/Peaks.MD) O(N * log(log(N))) <br>
+&nbsp; [Flags](/10%20PrimeandComposite/Flags/Flags.MD) O(N) Java <br>
+&nbsp; [Peaks](/10%20PrimeandComposite/Peaks/Peaks.MD) O(N * log(log(N))) Java <br>
 
 Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 &nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) O(N * log(log(N)) + M) C++ <br>

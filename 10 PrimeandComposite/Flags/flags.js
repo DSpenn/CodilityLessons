@@ -11,9 +11,11 @@ function solution(A) {
 
   const maxFlag = Math.floor(Math.sqrt(peaks[peaks.length - 1] - peaks[0]) + 1);
 
+  let count = 1;
+  let curPos = peaks[0];
   for (let i = maxFlag; i >= 2; i -= 1) {
-    let count = 1;
-    let curPos = peaks[0];
+    count = 1;
+    curPos = peaks[0];
     for (let x = 1; x < peaks.length; x += 1) {
       if (curPos + i <= peaks[x]) {
         curPos = peaks[x];

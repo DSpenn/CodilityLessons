@@ -11,8 +11,8 @@ Lesson 8 Leader <br>
 &nbsp; [EquiLeader](/8%20Leader/equiLeader/EquiLeader.MD) C++ and java <br>
 
 Lesson 10 [Prime and Composite](/10%20PrimeandComposite/)<br>
-&nbsp; [Flags](/10%20PrimeandComposite/Flags/Flags.MD) C++ and java <br>
-&nbsp; [Peaks](/10%20PrimeandComposite/Peaks/Peaks.MD) C++ and java <br>
+&nbsp; [Flags](/10%20PrimeandComposite/Flags/Flags.MD) C++ <br>
+&nbsp; [Peaks](/10%20PrimeandComposite/Peaks/Peaks.MD) C++ <br>
 
 Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
 &nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) java<br>
