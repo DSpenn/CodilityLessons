@@ -16,14 +16,13 @@ function solution(A) {
       obj[A[i]][1] = i
     }
   }
-  leader = A[maxIndex];
   let equiLeader = 0;
-  let arr = [];
+  let x = 0;
   for (let i = 0; i < A.length; i++) {
-    if (arr.length > (Math.floor(i / 2)) && (maxRep - arr.length > Math.floor((A.length - i) / 2))) {
+    if (x > (Math.floor(i / 2)) && (maxRep - x > Math.floor((A.length - i) / 2))) {
       equiLeader++;
     }
-    if (A[i] === leader) arr.push(i)
+    if (A[i] === A[maxIndex]) x++;
   }
   return equiLeader
 }
