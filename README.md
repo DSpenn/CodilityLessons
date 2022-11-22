@@ -62,12 +62,12 @@ Lesson 12 [Euclidean algorithm](/12%20Euclidean%20algorithm/)<br>
 &nbsp; [CommonPrimeDivisors](/12%20Euclidean%20algorithm/CommonPrimeDivisors/CommonPrimeDivisors.md)    O(Z * log(max(A) + max(B))**2)  C++ <br>
 
 Lesson 13 [Fibonacci numbers](/13%20Fibonacci%20Numbers/) <br>
-&nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) O(L) Java <br>
+&nbsp; [Ladder](/13%20Fibonacci%20Numbers/Ladder/Ladder.MD) O(L) Java & C++ <br>
 &nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) O(N * log(N)) <br>
 
 Lesson 14 [Binary search algorithm](/14%20Binary%20search%20algorithm/) <br>
-&nbsp; [MinMaxDivision](/14%20Binary%20search%20algorithm/MinMaxDivision/MinMaxDivision.MD) O(N*log(N+M)) C++ <br>
-&nbsp; [NailingPlanks](/14%20Binary%20search%20algorithm/NailingPlanks/NailingPlanks.MD) O((N + M) * log(M)) Java <br>
+&nbsp; [MinMaxDivision](/14%20Binary%20search%20algorithm/MinMaxDivision/MinMaxDivision.MD) O(N*log(N+M)) Java & C++ <br>
+&nbsp; [NailingPlanks](/14%20Binary%20search%20algorithm/NailingPlanks/NailingPlanks.MD) O((N + M) * log(M)) Java & C++ <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) O(N) or O(N*log(N)) Java & C++ <br>
