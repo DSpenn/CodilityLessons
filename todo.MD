@@ -18,8 +18,8 @@ Lesson 13 Fibonacci numbers <br>
 &nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) C++ and java<br>
 
 Lesson 14 [Binary search algorithm](/14%20Binary%20search%20algorithm/) <br>
-&nbsp; [MinMaxDivision](/14%20Binary%20search%20algorithm/MinMaxDivision/MinMaxDivision.MD) C++ & java <br>
-&nbsp; [NailingPlanks](/14%20Binary%20search%20algorithm/NailingPlanks/NailingPlanks.MD) C++ & java <br>
+&nbsp; [MinMaxDivision](/14%20Binary%20search%20algorithm/MinMaxDivision/MinMaxDivision.MD) java <br>
+&nbsp; [NailingPlanks](/14%20Binary%20search%20algorithm/NailingPlanks/NailingPlanks.MD) C++ <br>
 
 Lesson 17 Dynamic programming <br>
 &nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) java & C++ <br>

@@ -66,8 +66,8 @@ Lesson 13 [Fibonacci numbers](/13%20Fibonacci%20Numbers/) <br>
 &nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) O(N * log(N)) <br>
 
 Lesson 14 [Binary search algorithm](/14%20Binary%20search%20algorithm/) <br>
-&nbsp; [MinMaxDivision](/14%20Binary%20search%20algorithm/MinMaxDivision/MinMaxDivision.MD) O(N*log(N+M)) <br>
-&nbsp; [NailingPlanks](/14%20Binary%20search%20algorithm/NailingPlanks/NailingPlanks.MD) O((N + M) * log(M)) <br>
+&nbsp; [MinMaxDivision](/14%20Binary%20search%20algorithm/MinMaxDivision/MinMaxDivision.MD) O(N*log(N+M)) C++ <br>
+&nbsp; [NailingPlanks](/14%20Binary%20search%20algorithm/NailingPlanks/NailingPlanks.MD) O((N + M) * log(M)) Java <br>
 
 Lesson 15 [Caterpillar method](/15%20Caterpillar%20method/) <br>
 &nbsp; [AbsDistinct](/15%20Caterpillar%20method/AbsDistinct/absDistinct.MD) O(N) or O(N*log(N)) Java & C++ <br>
