@@ -9,11 +9,8 @@ Lesson 6 [Sorting](/6%20Sorting/)<br>
 Lesson 8 Leader <br>
 &nbsp; [EquiLeader](/8%20Leader/equiLeader/EquiLeader.MD) C++ and java <br>
 
-Lesson 11 [Sieve of Eratosthenes](/11%20Sieve%20of%20Eratosthenes/)<br>
-&nbsp; [Count Semiprimes](/11%20Sieve%20of%20Eratosthenes/CountSemiprimes/CountSemiprimes.MD) java<br>
-
 Lesson 13 Fibonacci numbers <br>
-&nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) C++ and java<br>
+&nbsp; [FibFrog](/13%20Fibonacci%20Numbers/FibFrog/FibFrog.MD) C++<br>
 
 Lesson 17 Dynamic programming <br>
-&nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) java & C++ <br>
+&nbsp; [MinAbsSum](/17%20Dynamic%20programming/MinAbsSum/MinAbsSum.MD) C++ and java<br>

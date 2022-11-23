@@ -35,3 +35,4 @@ function solution(A) {
   }
   return minDiff;
 }
+// console.log(solution([1, 5, 2, -2]));

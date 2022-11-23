@@ -1,8 +1,8 @@
 function solution(A) {
   if (A.length <= 2) return 1;
-  let min = Number.MAX_SAFE_INTEGER;
   const fibArr = new Array(A.length + 2 > 30 ? 30 : A.length + 2);
-  fibArr[0] = 1; fibArr[1] = 2;
+  fibArr[0] = 1;
+  fibArr[1] = 2;
 
   for (let i = 2; i < fibArr.length; i++) {
     fibArr[i] = fibArr[i - 1] + fibArr[i - 2];
@@ -16,7 +16,7 @@ function solution(A) {
       mins[i] = -1;
       continue;
     }
-    min = Number.MAX_SAFE_INTEGER;
+    let min = Number.MAX_SAFE_INTEGER;
 
     for (let j = fibArr.length - 1; j >= 0; j--) {
       k = i - fibArr[j];
